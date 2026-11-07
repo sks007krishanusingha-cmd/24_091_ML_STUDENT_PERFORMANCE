@@ -1,0 +1,1009 @@
+student_id,gender,age,attendance_pct,previous_marks,assignment_score,study_hours_per_week,participation_score,sleep_hours,screen_time_hours,parent_education,extra_curricular,tutoring,final_marks
+S0001,Male,21,64.8,52.4,46.6,6.8,2,6.3,5.8,High School,No,No,55.7
+S0002,Female,21,50.0,75.1,45.8,4.5,3,6.7,7.0,Graduate,Yes,No,55.0
+S0003,Female,20,83.4,70.7,78.9,18.8,5,6.0,7.4,High School,No,Yes,82.3
+S0004,Male,22,80.4,62.6,61.2,24.1,5,7.3,4.9,High School,No,No,80.5
+S0005,Male,17,74.9,62.2,48.6,,5,7.2,5.5,Graduate,Yes,Yes,76.4
+S0006,Female,22,60.7,73.9,65.2,5.4,4,5.7,4.2,High School,No,No,72.0
+S0007,Male,22,63.0,27.9,39.6,0.8,4,8.0,5.5,Postgraduate,No,No,50.1
+S0008,Female,20,72.9,46.5,50.1,10.8,3,6.9,5.1,High School,Yes,Yes,58.8
+S0009,Male,21,71.5,52.8,59.0,10.4,2,5.1,4.6,Graduate,Yes,Yes,65.5
+S0010,Male,20,77.8,49.2,55.1,8.7,5,6.7,4.7,Graduate,No,No,68.5
+S0011,Female,18,83.2,54.4,56.3,13.1,5,7.1,5.3,Graduate,Yes,Yes,69.2
+S0012,Female,21,100.0,44.6,44.8,14.0,9,7.8,4.0,Graduate,Yes,No,74.5
+S0013,Female,18,79.2,74.1,,13.6,8,6.5,4.1,Graduate,Yes,No,86.4
+S0014,Female,18,84.6,39.8,52.2,10.4,8,7.6,7.6,Postgraduate,Yes,No,64.2
+S0015,Female,20,63.7,49.3,55.8,6.5,2,7.0,9.4,High School,Yes,Yes,55.8
+S0016,Female,22,66.7,71.8,72.3,15.3,6,5.5,2.3,High School,No,No,77.0
+S0017,Female,19,77.4,56.7,48.9,12.1,6,5.4,2.2,Graduate,Yes,No,76.0
+S0018,Male,19,67.4,50.7,64.8,16.4,6,7.9,2.8,Postgraduate,Yes,Yes,79.0
+S0019,Female,17,80.2,46.1,56.3,16.0,5,8.0,4.3,High School,No,No,69.4
+S0020,Male,17,66.8,47.4,42.1,4.9,6,7.1,6.1,Graduate,Yes,Yes,58.4
+S0021,Female,17,56.8,41.5,40.3,4.8,4,8.3,5.6,Postgraduate,No,No,53.1
+S0022,Male,17,92.1,55.5,48.2,8.2,6,7.9,4.8,Graduate,Yes,No,68.9
+S0023,Male,22,70.4,36.3,48.8,6.7,2,7.5,5.5,Postgraduate,Yes,No,55.0
+S0024,Female,22,66.3,69.7,57.8,15.8,6,5.9,3.3,Graduate,Yes,No,79.2
+S0025,Female,21,87.5,60.0,53.8,,5,8.5,4.1,Graduate,No,No,71.1
+S0026,Female,17,74.0,64.6,65.4,17.5,6,7.3,4.5,High School,Yes,Yes,75.5
+S0027,Male,17,91.8,74.8,83.1,14.0,6,6.4,1.6,Postgraduate,No,Yes,92.4
+S0028,Female,18,74.2,53.2,65.8,13.0,5,6.1,2.4,High School,Yes,No,65.1
+S0029,Female,20,77.9,55.0,50.1,18.0,6,7.1,2.5,Graduate,No,No,72.4
+S0030,Male,19,81.0,53.3,69.5,14.3,7,5.1,5.9,Graduate,No,No,70.5
+S0031,Male,19,83.3,55.2,68.5,12.3,5,7.5,4.9,Graduate,Yes,No,74.2
+S0032,Male,18,87.1,63.4,59.9,19.4,4,5.8,5.6,Graduate,No,Yes,85.6
+S0033,Male,21,81.0,48.4,34.0,12.6,6,7.2,1.2,Graduate,Yes,Yes,62.4
+S0034,Female,18,85.1,33.2,43.2,10.5,4,6.3,1.8,Postgraduate,Yes,Yes,70.6
+S0035,Female,17,82.1,46.6,57.4,7.8,3,6.5,5.7,Graduate,Yes,No,60.3
+S0036,Male,21,85.5,64.5,78.7,15.5,4,6.0,0.5,Graduate,No,No,83.7
+S0037,Female,22,77.3,64.7,61.8,18.2,6,6.6,6.7,High School,No,No,70.3
+S0038,Female,17,68.5,69.9,79.2,11.7,5,8.7,1.2,Graduate,Yes,Yes,88.6
+S0039,Male,19,84.8,85.0,62.5,18.5,3,8.2,6.0,Graduate,No,Yes,86.9
+S0040,Female,21,76.3,55.5,44.7,2.1,3,7.2,2.9,High School,No,No,59.9
+S0041,Male,21,72.6,71.9,62.9,11.7,7,6.8,6.4,,Yes,No,68.5
+S0042,Female,22,84.2,65.2,71.9,11.8,5,7.6,10.0,Graduate,No,No,72.7
+S0043,Female,19,68.0,72.2,73.4,8.4,4,7.9,0.5,Graduate,No,No,82.0
+S0044,Male,19,96.6,89.3,95.7,23.9,9,6.0,5.8,Graduate,No,No,100.0
+S0045,Male,21,81.2,67.1,52.8,11.7,6,6.7,1.2,High School,No,No,80.3
+S0046,Female,17,79.6,62.7,66.4,10.0,7,,5.3,High School,Yes,No,76.5
+S0047,Male,18,75.2,54.9,61.4,12.1,1,7.9,4.1,High School,Yes,No,64.2
+S0048,Female,20,59.1,46.5,29.2,2.0,6,8.9,4.7,Graduate,No,No,58.9
+S0049,Female,21,77.2,49.5,33.9,8.2,6,6.9,2.9,Postgraduate,Yes,No,62.8
+S0050,Female,17,81.9,68.7,78.0,16.9,10,4.7,5.9,High School,Yes,Yes,86.6
+S0051,Female,20,85.7,45.9,47.7,8.9,4,7.4,1.9,Graduate,No,No,64.9
+S0052,Male,19,72.6,50.8,40.5,,2,,6.7,High School,Yes,Yes,58.1
+S0053,Male,20,61.9,37.6,52.6,18.5,5,6.1,3.8,High School,No,No,53.3
+S0054,Male,22,69.6,82.7,82.1,18.7,5,7.4,2.0,High School,No,No,88.9
+S0055,Male,17,94.9,57.2,60.4,14.6,7,7.1,7.4,High School,Yes,No,68.4
+S0056,Male,22,67.7,59.7,45.2,9.7,6,6.3,4.4,Graduate,No,No,71.8
+S0057,Female,19,87.2,71.8,80.4,10.8,5,6.2,7.9,Postgraduate,No,No,83.9
+S0058,Male,21,66.1,56.3,62.0,8.0,4,6.9,6.7,High School,No,Yes,69.3
+S0059,Female,19,76.1,67.9,56.7,7.0,5,6.4,3.1,Graduate,Yes,Yes,74.0
+S0060,Female,18,82.0,38.1,,6.8,4,5.7,4.3,Graduate,Yes,Yes,54.6
+S0061,Female,21,69.5,80.3,70.9,8.9,4,6.5,4.7,Postgraduate,No,No,75.8
+S0062,Female,21,87.8,63.8,47.9,6.8,7,7.1,7.2,Graduate,Yes,No,75.1
+S0063,Male,17,75.1,51.5,50.1,4.2,6,6.6,5.3,High School,No,Yes,61.5
+S0064,Female,21,82.6,73.8,58.0,13.1,7,5.4,4.8,Graduate,Yes,No,69.9
+S0065,Male,21,76.7,45.3,52.5,13.2,5,7.8,4.1,High School,Yes,No,68.7
+S0066,Male,19,87.7,62.3,,20.5,3,4.1,4.4,Postgraduate,No,No,81.1
+S0067,Female,22,88.8,69.5,53.0,8.7,5,6.4,6.8,High School,No,No,76.2
+S0068,Male,20,77.7,37.9,62.5,13.5,4,6.2,4.5,Graduate,No,Yes,69.8
+S0069,Male,19,95.2,64.7,64.6,13.6,6,6.9,3.8,High School,Yes,No,82.9
+S0070,Male,17,73.3,61.6,61.3,10.7,4,7.4,3.5,Graduate,No,No,71.5
+S0071,Female,21,87.7,82.4,59.9,15.7,6,7.9,3.5,Postgraduate,No,Yes,82.3
+S0072,Male,18,86.8,43.5,50.0,15.9,4,6.1,2.0,Graduate,Yes,No,67.4
+S0073,Male,21,70.7,76.3,74.3,13.6,3,7.4,3.1,Graduate,Yes,No,82.6
+S0074,Male,20,77.0,49.6,54.5,10.7,7,7.0,7.2,Postgraduate,No,No,65.2
+S0075,Female,19,78.0,50.3,,10.2,3,5.1,4.1,Postgraduate,Yes,No,59.0
+S0076,Male,17,66.6,36.7,42.0,5.2,4,8.7,5.8,High School,No,No,48.5
+S0077,Male,21,83.9,41.0,48.5,8.0,6,5.4,0.5,Graduate,No,No,60.5
+S0078,Male,17,77.3,58.3,66.2,8.9,6,7.2,5.5,Graduate,Yes,No,77.1
+S0079,Female,19,75.7,39.1,37.7,6.4,6,7.2,4.2,Graduate,Yes,No,63.2
+S0080,Female,22,79.4,67.3,48.3,14.2,6,7.1,3.6,High School,Yes,Yes,77.4
+S0081,Female,22,79.6,55.7,55.6,18.0,7,6.3,4.8,High School,Yes,Yes,77.1
+S0082,Male,22,74.1,39.1,35.2,7.5,7,7.6,3.6,Postgraduate,Yes,Yes,58.4
+S0083,Male,22,83.9,52.6,63.2,13.4,6,5.2,0.7,Postgraduate,No,No,77.3
+S0084,Female,20,,55.5,30.6,6.8,1,6.7,6.2,Postgraduate,Yes,No,60.9
+S0085,Female,18,100.0,52.4,50.7,,5,6.2,4.9,Postgraduate,No,No,63.4
+S0086,Female,22,64.8,53.9,64.6,8.5,5,6.1,3.9,Graduate,Yes,No,68.2
+S0087,Male,21,76.0,67.7,67.3,15.0,4,7.2,2.8,Graduate,Yes,Yes,83.2
+S0088,Male,22,75.0,65.5,66.8,8.6,7,7.9,1.9,,Yes,No,79.5
+S0089,Female,20,98.3,58.6,51.2,17.1,6,6.5,4.9,Graduate,No,No,80.7
+S0090,Female,17,63.0,44.3,37.3,10.8,5,7.6,7.4,Graduate,No,No,62.7
+S0091,Male,20,80.5,54.6,65.3,8.8,7,6.8,4.9,High School,Yes,No,69.3
+S0092,Female,19,80.5,55.9,52.3,5.7,4,5.9,2.0,Graduate,No,No,68.3
+S0093,Female,22,81.4,42.2,52.3,13.3,6,6.5,4.9,High School,No,No,64.4
+S0094,Male,19,91.3,51.7,51.0,16.5,8,6.5,4.4,High School,Yes,No,70.5
+S0095,Female,18,88.2,50.5,56.9,13.4,3,6.1,6.1,Graduate,No,No,66.7
+S0096,Male,17,77.6,65.9,65.3,23.2,6,7.2,5.6,Graduate,Yes,Yes,86.5
+S0097,Male,22,86.9,55.8,74.3,19.1,8,7.0,0.5,High School,Yes,Yes,87.9
+S0098,Female,21,59.9,63.2,82.1,10.5,4,5.2,5.5,Graduate,No,No,68.4
+S0099,Female,17,80.4,37.8,50.0,10.4,7,5.1,2.7,Postgraduate,Yes,Yes,64.8
+S0100,Male,19,74.7,42.0,47.4,14.3,3,7.2,1.9,High School,Yes,Yes,64.3
+S0101,Female,19,75.3,49.1,29.6,7.8,2,6.0,4.2,High School,No,No,51.6
+S0102,Male,19,64.7,60.9,52.9,17.8,6,7.1,5.2,High School,Yes,Yes,75.6
+S0103,Female,22,85.6,42.8,64.8,13.8,7,7.6,1.5,Graduate,No,No,74.4
+S0104,Male,17,62.3,51.6,48.4,13.3,4,5.5,5.8,Postgraduate,No,No,65.6
+S0105,Female,18,79.6,56.0,58.3,15.4,6,5.4,5.9,High School,No,No,67.0
+S0106,Female,18,70.6,61.3,74.6,20.6,7,8.5,4.6,Graduate,No,No,79.6
+S0107,Female,18,72.6,59.5,72.5,12.9,4,7.2,2.9,High School,No,No,79.4
+S0108,Female,22,90.2,49.2,51.9,11.4,4,6.4,2.7,,No,No,66.3
+S0109,Male,22,84.8,80.8,75.7,19.5,6,5.9,6.3,Postgraduate,Yes,Yes,90.4
+S0110,Female,17,93.3,67.2,69.4,16.8,8,6.3,1.8,High School,Yes,No,84.8
+S0111,Male,20,89.8,46.5,46.0,10.4,4,5.6,6.4,High School,No,No,64.2
+S0112,Female,18,71.7,58.1,54.4,12.0,5,7.7,4.2,Graduate,No,Yes,76.5
+S0113,Female,18,92.4,59.3,63.9,13.0,5,6.0,4.3,Graduate,Yes,No,78.2
+S0114,Male,18,68.9,72.2,70.0,13.8,6,7.9,1.4,Postgraduate,No,No,83.1
+S0115,Female,18,82.6,43.6,61.3,5.2,5,6.4,4.2,Postgraduate,Yes,No,60.1
+S0116,Female,19,69.7,57.7,54.5,4.3,3,5.8,5.6,High School,No,No,66.8
+S0117,Male,22,70.6,53.0,60.9,7.6,6,6.4,2.1,High School,Yes,Yes,73.8
+S0118,Male,20,81.0,68.6,51.3,7.2,4,4.2,5.4,Graduate,Yes,No,65.7
+S0119,Male,21,85.4,68.0,65.4,8.8,5,6.7,4.7,High School,Yes,Yes,82.2
+S0120,Male,19,89.0,62.3,58.7,15.2,3,6.6,3.3,Postgraduate,Yes,Yes,76.3
+S0121,Male,17,78.4,53.3,58.6,11.2,4,7.6,6.0,Graduate,Yes,Yes,74.3
+S0122,Female,17,83.8,63.6,68.4,13.0,6,4.9,0.5,High School,Yes,No,84.0
+S0123,Female,18,80.0,48.9,48.2,5.9,5,8.0,5.1,Postgraduate,Yes,No,59.2
+S0124,Male,18,77.2,73.2,84.2,9.7,6,7.6,7.4,High School,Yes,No,80.7
+S0125,Female,22,81.8,60.8,74.8,,6,8.1,7.1,Graduate,Yes,Yes,82.2
+S0126,Female,22,80.6,55.5,69.9,15.0,9,6.7,5.2,Graduate,Yes,Yes,89.0
+S0127,Male,22,85.0,48.3,56.1,8.4,4,7.8,4.0,Graduate,Yes,No,62.8
+S0128,Female,20,65.1,44.5,66.4,12.8,2,5.3,3.4,Graduate,Yes,Yes,71.1
+S0129,Female,20,82.1,74.1,67.3,23.0,5,7.5,4.0,Graduate,Yes,No,86.0
+S0130,Female,20,64.8,47.9,64.2,11.9,3,6.0,5.5,Postgraduate,Yes,No,59.1
+S0131,Female,19,80.9,65.6,51.7,8.5,3,5.1,3.0,Postgraduate,Yes,No,69.1
+S0132,Female,21,91.4,41.9,44.7,11.1,6,5.7,5.9,Graduate,No,No,61.6
+S0133,Male,21,,58.9,64.3,12.5,7,6.8,8.3,High School,No,Yes,68.3
+S0134,Female,21,79.3,68.9,74.0,11.2,8,6.0,4.4,Graduate,No,Yes,84.1
+S0135,Female,20,87.5,33.2,35.9,11.8,6,7.2,2.1,Postgraduate,No,No,64.6
+S0136,Male,17,59.2,72.0,55.3,4.8,7,5.0,2.1,High School,No,No,71.6
+S0137,Female,21,70.3,47.5,49.1,7.2,4,,5.9,Graduate,Yes,No,55.3
+S0138,Male,19,81.4,57.8,56.6,11.3,3,8.2,4.4,Graduate,No,Yes,71.5
+S0139,Male,21,50.3,62.5,67.4,11.2,6,7.7,6.1,High School,No,No,69.2
+S0140,Male,20,69.3,62.2,85.8,9.2,2,5.8,3.5,Graduate,No,No,73.5
+S0141,Female,22,86.4,59.1,62.0,11.1,4,,6.0,High School,No,No,73.4
+S0142,Male,19,87.7,68.3,,12.3,6,7.8,4.2,Graduate,Yes,Yes,81.6
+S0143,Male,22,84.8,67.2,58.0,16.4,6,7.2,3.2,Postgraduate,No,No,75.3
+S0144,Male,22,,75.9,65.6,11.5,5,6.9,3.8,Postgraduate,No,Yes,82.2
+S0145,Female,18,83.2,64.7,57.1,14.0,4,7.9,2.3,Graduate,Yes,No,76.7
+S0146,Female,19,78.6,75.9,,9.3,5,6.1,8.1,High School,No,No,78.0
+S0147,Male,20,76.8,69.8,71.9,14.9,7,6.8,4.3,Graduate,Yes,No,85.7
+S0148,Male,21,78.9,39.0,46.6,13.9,5,6.8,5.7,Graduate,No,No,66.9
+S0149,Female,21,75.3,90.1,96.7,16.3,4,6.5,3.5,Graduate,No,No,93.2
+S0150,Male,22,93.0,54.2,54.5,15.6,4,6.4,2.6,Postgraduate,Yes,Yes,79.1
+S0151,Female,19,93.6,76.4,71.0,14.9,5,6.9,4.1,High School,No,Yes,81.8
+S0152,Male,20,88.5,56.8,62.9,11.5,6,6.8,6.5,Postgraduate,Yes,No,73.4
+S0153,Female,19,76.1,69.9,73.8,13.2,6,5.8,3.6,High School,No,No,75.5
+S0154,Male,22,73.4,54.7,72.6,17.3,4,,2.9,High School,No,Yes,77.8
+S0155,Male,18,88.2,60.6,60.5,8.7,2,5.8,4.8,Graduate,No,Yes,81.5
+S0156,Female,20,81.0,51.1,60.4,8.9,6,6.6,5.4,High School,No,No,67.4
+S0157,Male,17,78.7,75.3,64.0,12.9,4,6.5,7.5,High School,Yes,Yes,74.5
+S0158,Female,22,72.8,63.9,71.6,14.1,6,7.2,5.1,High School,Yes,Yes,80.4
+S0159,Female,19,79.3,63.2,64.9,7.9,4,4.7,5.7,Graduate,Yes,No,66.6
+S0160,Female,19,67.1,32.8,56.8,11.6,3,7.7,5.8,Graduate,Yes,No,52.9
+S0161,Female,20,85.9,55.6,43.8,11.5,6,6.1,2.4,High School,Yes,No,76.3
+S0162,Female,19,88.0,50.4,36.4,0.9,8,8.0,2.8,Graduate,Yes,No,66.7
+S0163,Male,22,94.5,58.4,64.6,10.9,7,6.3,2.5,,Yes,Yes,81.7
+S0164,Male,20,86.8,66.8,41.7,11.2,6,6.8,2.1,High School,Yes,No,72.0
+S0165,Male,20,64.1,52.2,58.8,11.2,5,8.7,5.9,High School,No,No,64.1
+S0166,Female,17,82.4,64.6,78.1,19.1,3,6.5,5.0,Postgraduate,Yes,No,85.4
+S0167,Male,17,95.0,63.9,51.5,5.9,3,8.0,4.6,Postgraduate,No,Yes,73.7
+S0168,Male,19,72.8,27.8,34.7,7.9,1,6.8,0.5,Graduate,Yes,Yes,42.9
+S0169,Male,22,69.3,51.5,34.7,0.0,6,7.2,8.2,Graduate,Yes,Yes,64.1
+S0170,Male,22,91.7,50.9,48.4,9.6,8,6.9,2.9,High School,No,No,70.4
+S0171,Male,20,79.4,45.0,45.8,10.0,6,7.6,8.2,High School,Yes,No,60.5
+S0172,Male,20,100.0,58.2,,9.5,6,6.1,1.9,Graduate,Yes,No,77.1
+S0173,Female,19,75.4,76.0,68.5,17.5,3,5.8,3.0,High School,No,No,82.2
+S0174,Female,18,75.1,72.7,69.1,16.3,5,,0.5,Graduate,Yes,No,86.1
+S0175,Female,17,88.8,55.9,55.9,12.4,8,6.9,5.2,Graduate,Yes,No,71.4
+S0176,Male,19,68.8,64.8,75.8,10.1,5,6.6,2.5,Graduate,No,Yes,74.8
+S0177,Female,18,80.5,71.7,68.4,17.1,5,7.5,2.6,Graduate,Yes,No,84.1
+S0178,Male,18,80.1,55.9,60.4,11.9,2,8.1,2.0,High School,No,No,75.1
+S0179,Female,18,84.6,45.3,43.2,7.9,7,5.8,5.9,High School,Yes,Yes,61.0
+S0180,Female,17,79.1,41.4,36.5,3.4,4,6.1,5.8,High School,No,No,49.1
+S0181,Female,20,78.3,64.0,46.4,9.8,2,5.4,7.8,Graduate,No,No,66.6
+S0182,Male,22,77.4,60.3,51.4,15.8,4,8.8,3.3,High School,No,Yes,74.0
+S0183,Male,21,93.4,56.9,60.0,23.4,5,7.1,4.9,High School,No,No,76.6
+S0184,Female,19,100.0,38.8,50.1,12.3,6,7.3,2.2,High School,Yes,Yes,68.9
+S0185,Male,19,83.6,62.3,66.1,8.2,5,5.5,3.9,High School,No,Yes,74.4
+S0186,Male,18,77.8,45.1,31.6,6.1,4,6.8,3.6,Postgraduate,Yes,Yes,54.4
+S0187,Male,17,66.9,63.4,60.2,14.8,6,7.3,5.3,High School,No,No,70.8
+S0188,Male,20,67.2,61.8,41.2,3.2,4,6.5,6.3,Postgraduate,No,No,60.5
+S0189,Male,20,75.7,45.4,52.6,14.8,7,7.9,6.3,High School,Yes,Yes,69.6
+S0190,Male,17,76.6,60.6,73.0,16.1,5,9.0,3.0,Graduate,No,Yes,86.4
+S0191,Female,19,77.2,57.3,57.1,14.2,10,5.9,6.3,Graduate,Yes,Yes,82.7
+S0192,Female,18,93.9,60.1,58.6,10.9,5,5.8,4.4,High School,No,Yes,80.1
+S0193,Female,18,91.2,73.5,81.9,14.8,4,5.9,3.9,Postgraduate,No,No,87.8
+S0194,Male,21,78.5,43.2,55.3,12.9,4,8.4,3.2,Postgraduate,Yes,No,66.0
+S0195,Female,20,66.9,59.4,49.7,8.1,4,7.8,3.5,Postgraduate,No,No,64.4
+S0196,Male,20,90.9,77.6,80.2,21.3,4,6.7,7.6,High School,No,No,85.3
+S0197,Male,21,76.6,53.2,47.9,10.2,5,6.8,5.1,High School,Yes,No,66.1
+S0198,Male,22,64.0,59.4,66.9,15.9,2,6.0,4.8,Graduate,No,Yes,75.3
+S0199,Male,21,80.4,49.6,46.4,0.0,4,7.7,4.0,High School,Yes,Yes,63.0
+S0200,Female,20,85.7,67.2,59.4,18.4,4,6.4,8.9,Graduate,No,No,73.1
+S0201,Male,22,57.1,70.7,74.7,19.3,4,6.5,6.8,Graduate,Yes,No,79.5
+S0202,Female,19,72.2,63.3,61.0,12.1,6,7.4,3.2,Graduate,No,No,79.1
+S0203,Male,22,78.9,49.0,61.1,14.8,9,6.6,4.0,Postgraduate,No,No,76.9
+S0204,Female,21,86.4,70.7,75.3,14.8,4,6.6,4.1,Graduate,Yes,No,80.8
+S0205,Male,20,72.1,66.6,64.2,8.8,4,6.8,4.8,High School,Yes,No,67.8
+S0206,Male,22,73.2,61.8,61.3,14.7,4,7.6,3.2,High School,No,No,70.5
+S0207,Female,20,82.4,36.5,50.5,8.0,4,8.4,5.3,Graduate,No,Yes,58.9
+S0208,Female,21,70.3,52.7,46.0,9.0,3,7.4,7.1,Graduate,Yes,Yes,62.9
+S0209,Male,18,87.8,64.8,57.7,17.6,7,7.6,2.1,High School,Yes,Yes,86.0
+S0210,Female,22,72.3,49.3,33.4,16.9,5,6.6,2.5,Graduate,Yes,Yes,63.2
+S0211,Male,20,65.6,49.5,50.1,8.5,8,6.1,3.6,Graduate,No,No,62.9
+S0212,Female,21,84.4,37.8,37.6,8.3,6,7.5,3.7,Postgraduate,No,No,60.5
+S0213,Female,19,75.7,60.5,60.2,8.8,3,7.0,8.1,Graduate,No,No,61.5
+S0214,Male,22,86.3,62.5,49.3,15.7,5,5.4,6.3,High School,No,No,71.8
+S0215,Female,17,69.8,33.9,35.5,7.0,3,6.5,6.2,High School,No,Yes,50.2
+S0216,Male,17,72.3,62.6,67.0,,6,6.7,4.0,Graduate,Yes,No,73.0
+S0217,Male,20,92.6,60.1,55.6,15.7,3,6.3,4.0,High School,Yes,No,72.7
+S0218,Male,21,67.0,62.2,64.1,11.6,2,8.3,1.9,Graduate,No,Yes,76.4
+S0219,Male,21,90.2,57.7,,17.1,5,7.3,5.9,,No,Yes,74.0
+S0220,Female,19,88.7,46.7,50.9,10.5,6,8.2,5.4,High School,Yes,No,64.6
+S0221,Male,20,83.3,47.5,56.8,10.9,7,7.1,6.8,High School,Yes,Yes,70.2
+S0222,Male,20,70.5,46.2,55.1,7.1,7,6.9,4.1,High School,No,No,60.4
+S0223,Female,22,73.2,62.3,67.1,17.1,6,5.9,4.2,Postgraduate,Yes,No,71.5
+S0224,Male,20,74.6,54.8,46.8,8.2,4,6.8,4.8,Graduate,Yes,No,57.5
+S0225,Female,19,65.7,56.7,56.2,13.7,6,6.8,6.1,High School,No,Yes,69.1
+S0226,Male,22,72.1,52.0,60.3,11.6,3,5.4,1.9,Postgraduate,Yes,No,63.3
+S0227,Female,17,80.7,47.9,39.9,6.7,2,6.3,5.8,Graduate,No,No,54.5
+S0228,Female,22,83.0,81.5,67.4,9.0,6,6.5,4.5,Graduate,Yes,Yes,89.9
+S0229,Female,17,73.5,55.4,61.3,18.9,4,7.2,2.6,Postgraduate,Yes,No,70.1
+S0230,Male,18,88.5,51.9,55.7,13.0,6,7.3,0.7,High School,No,No,72.5
+S0231,Male,21,80.6,88.2,62.4,7.0,5,6.2,4.3,High School,Yes,No,87.1
+S0232,Female,21,89.9,63.2,48.4,13.5,6,7.3,7.1,Graduate,No,Yes,75.9
+S0233,Male,22,80.1,41.1,53.0,11.3,7,6.6,7.5,High School,Yes,No,59.8
+S0234,Female,21,94.1,83.5,97.9,29.3,9,4.0,5.1,Graduate,No,Yes,100.0
+S0235,Male,20,79.6,48.4,40.7,13.4,6,6.3,8.0,High School,No,Yes,65.3
+S0236,Female,19,86.4,65.1,63.9,10.1,5,7.9,4.4,High School,No,Yes,83.5
+S0237,Female,17,67.8,61.8,76.7,19.1,6,5.1,6.2,High School,Yes,No,74.3
+S0238,Male,17,74.3,43.0,46.2,2.8,3,6.9,3.7,Graduate,Yes,Yes,55.7
+S0239,Male,18,79.1,75.2,65.5,12.5,5,8.4,3.6,High School,Yes,No,75.3
+S0240,Female,17,81.3,73.2,69.7,22.0,10,6.0,3.3,High School,No,No,89.6
+S0241,Male,20,85.8,67.1,64.0,11.4,6,6.8,0.8,Postgraduate,Yes,No,75.8
+S0242,Female,21,78.2,53.1,49.5,3.3,5,5.5,6.8,High School,Yes,No,56.8
+S0243,Male,22,82.2,50.1,53.4,10.0,4,8.4,3.3,High School,Yes,No,63.2
+S0244,Female,19,81.1,71.0,71.9,19.3,8,6.7,3.1,High School,Yes,Yes,92.9
+S0245,Female,22,,72.2,59.9,13.9,6,6.8,2.4,High School,Yes,Yes,80.2
+S0246,Male,22,86.9,54.3,56.0,7.8,6,8.2,4.1,High School,Yes,No,70.3
+S0247,Female,22,76.9,73.4,67.7,8.6,5,7.5,7.7,Graduate,Yes,No,68.1
+S0248,Male,19,64.2,63.6,60.8,9.2,6,5.9,8.3,High School,No,No,66.5
+S0249,Female,18,80.3,61.1,63.3,13.8,7,6.2,1.5,Postgraduate,Yes,No,74.5
+S0250,Male,22,65.9,66.5,83.7,18.7,6,7.3,3.9,Postgraduate,Yes,No,82.1
+S0251,Male,18,82.6,63.8,62.3,17.3,6,6.2,2.6,High School,No,No,86.4
+S0252,Male,19,75.6,45.5,64.6,14.3,7,4.7,6.3,High School,No,No,69.6
+S0253,Male,17,,49.4,41.6,5.3,3,6.7,5.0,High School,Yes,Yes,58.3
+S0254,Male,21,91.1,52.8,58.3,5.4,4,5.3,3.4,Graduate,No,No,77.0
+S0255,Female,20,68.8,55.1,69.8,14.7,5,8.4,4.6,High School,No,Yes,72.1
+S0256,Male,17,82.8,54.0,47.6,5.3,2,7.0,3.6,Postgraduate,No,No,66.4
+S0257,Female,18,94.6,56.1,70.0,10.9,7,5.9,7.4,Graduate,No,Yes,70.2
+S0258,Male,20,,67.0,69.1,13.5,4,6.1,5.5,Graduate,No,No,75.3
+S0259,Male,20,74.5,58.6,46.5,6.3,4,4.9,5.7,Graduate,Yes,No,56.5
+S0260,Female,21,70.0,53.7,48.4,6.9,4,5.7,0.5,Postgraduate,Yes,Yes,69.2
+S0261,Female,18,66.0,41.5,58.4,11.5,5,7.8,4.4,High School,No,Yes,65.6
+S0262,Male,22,71.9,79.2,80.5,14.5,5,9.0,8.2,Graduate,No,No,80.7
+S0263,Male,19,71.9,60.7,57.3,17.3,5,7.5,6.9,High School,No,Yes,77.8
+S0264,Female,21,76.4,59.1,61.5,15.0,5,6.7,1.2,Postgraduate,Yes,No,74.6
+S0265,Female,18,76.1,53.6,58.5,12.4,4,6.4,3.9,Graduate,No,No,69.1
+S0266,Female,17,78.1,47.9,45.6,8.3,4,5.8,2.3,Graduate,Yes,Yes,68.0
+S0267,Male,17,77.4,68.6,78.3,6.6,6,8.9,7.6,High School,No,Yes,72.4
+S0268,Male,19,65.7,69.7,64.6,9.4,1,6.6,4.9,Postgraduate,No,No,67.0
+S0269,Female,22,74.4,63.9,63.7,14.0,5,8.9,3.1,Graduate,No,No,77.1
+S0270,Female,17,77.5,57.5,69.8,13.7,5,8.2,4.6,Graduate,No,Yes,79.5
+S0271,Male,19,,53.3,42.9,1.5,5,5.1,0.5,Postgraduate,No,No,67.4
+S0272,Male,17,95.2,53.9,60.8,8.1,3,6.1,2.5,High School,No,No,67.9
+S0273,Male,22,82.7,60.9,53.2,18.0,5,6.1,4.6,High School,No,No,72.2
+S0274,Female,21,62.4,61.1,57.4,12.4,4,6.7,6.0,Graduate,No,No,64.0
+S0275,Male,21,82.7,45.1,53.1,4.9,6,6.7,1.0,High School,No,No,65.7
+S0276,Male,21,88.6,71.6,90.7,23.8,7,,3.8,High School,Yes,No,92.8
+S0277,Male,20,75.3,59.1,53.2,11.9,3,5.7,6.3,High School,No,No,63.6
+S0278,Female,21,,65.6,57.9,13.9,4,7.0,1.9,High School,Yes,No,73.9
+S0279,Male,17,94.5,52.2,62.2,14.0,7,7.4,4.9,Postgraduate,No,No,76.8
+S0280,Male,22,67.8,63.0,54.8,10.2,3,6.8,4.6,Graduate,No,Yes,68.1
+S0281,Male,21,79.7,43.4,45.1,8.4,5,6.9,7.6,High School,Yes,No,54.2
+S0282,Male,21,,61.3,78.3,22.6,6,5.8,4.1,Graduate,Yes,Yes,87.9
+S0283,Female,19,86.0,56.2,58.6,17.0,5,6.9,4.2,Graduate,Yes,Yes,66.3
+S0284,Male,21,93.8,49.3,42.5,16.1,10,7.3,6.0,Graduate,No,Yes,72.3
+S0285,Male,19,86.9,71.1,58.6,14.9,5,7.1,2.1,Postgraduate,Yes,Yes,80.2
+S0286,Female,17,71.7,41.3,44.8,7.0,5,7.4,4.1,Postgraduate,Yes,No,63.0
+S0287,Male,22,91.6,55.7,49.1,18.4,5,8.2,3.7,High School,No,No,72.4
+S0288,Female,18,71.2,66.6,57.0,7.8,5,7.7,4.2,High School,No,No,68.4
+S0289,Female,17,78.8,52.1,46.0,13.4,7,6.9,6.0,Graduate,Yes,Yes,69.6
+S0290,Male,20,62.4,46.7,57.6,3.8,3,5.6,5.5,Graduate,Yes,No,53.7
+S0291,Female,18,66.3,35.7,53.7,1.8,4,6.2,3.2,Graduate,No,No,52.1
+S0292,Male,22,79.2,67.8,57.4,13.6,4,6.6,4.7,Graduate,No,No,74.0
+S0293,Female,19,77.3,62.3,59.3,8.0,3,7.1,7.2,Graduate,No,No,64.3
+S0294,Male,17,60.5,55.2,39.7,2.1,5,6.3,3.0,High School,Yes,No,56.3
+S0295,Female,22,83.6,65.6,63.3,14.7,5,5.9,4.8,High School,Yes,No,71.8
+S0296,Female,20,75.5,68.4,89.7,22.6,2,5.6,4.2,High School,Yes,No,79.0
+S0297,Female,18,92.7,58.2,62.2,18.9,9,5.1,4.4,High School,No,No,79.6
+S0298,Male,21,77.6,46.7,49.1,10.7,4,6.6,1.6,High School,Yes,No,65.4
+S0299,Male,20,65.7,71.2,58.7,12.0,4,5.3,7.0,Graduate,Yes,No,64.7
+S0300,Male,17,82.2,69.9,79.0,16.4,8,5.8,3.1,High School,No,Yes,90.9
+S0301,Male,21,70.5,55.0,36.7,17.6,5,6.4,6.3,High School,No,No,66.8
+S0302,Female,19,90.2,55.7,52.4,10.3,5,5.5,3.4,Graduate,No,No,72.5
+S0303,Male,21,79.5,53.9,56.4,12.2,3,7.2,3.4,Graduate,No,Yes,72.2
+S0304,Female,22,75.4,46.1,48.6,13.5,3,7.5,6.7,High School,No,No,62.5
+S0305,Female,20,82.9,61.7,70.6,14.8,5,6.3,6.3,Postgraduate,Yes,No,83.1
+S0306,Male,21,68.6,51.8,64.4,11.3,5,6.4,4.9,Postgraduate,Yes,Yes,69.7
+S0307,Male,18,65.1,45.9,40.4,11.4,5,7.3,5.9,Graduate,No,Yes,58.1
+S0308,Female,18,85.3,47.6,76.8,18.9,5,6.1,4.0,Graduate,Yes,Yes,73.0
+S0309,Male,19,70.8,45.8,46.9,18.0,5,6.0,4.5,High School,No,No,70.7
+S0310,Male,22,70.5,55.3,70.1,14.4,2,8.0,3.3,Postgraduate,No,Yes,81.2
+S0311,Female,20,87.6,64.7,72.4,20.6,7,7.7,6.1,High School,No,No,79.2
+S0312,Female,19,83.5,45.4,46.0,10.1,5,7.4,3.3,Postgraduate,Yes,No,62.2
+S0313,Male,21,67.6,72.3,,,9,7.7,7.2,Graduate,Yes,No,82.3
+S0314,Male,22,74.4,59.0,61.9,60.0,5,4.8,3.9,High School,Yes,No,75.6
+S0315,Male,22,76.7,79.7,88.9,28.4,5,8.2,4.5,High School,Yes,Yes,92.9
+S0316,Female,18,90.5,49.0,40.6,6.0,5,7.2,5.9,Graduate,Yes,Yes,56.6
+S0317,Female,21,85.0,44.9,46.4,8.6,5,7.8,4.5,Graduate,Yes,No,70.0
+S0318,Female,20,75.9,60.3,56.1,14.1,6,7.2,4.0,High School,No,Yes,76.8
+S0319,Female,19,84.3,45.1,44.1,14.0,6,6.8,4.4,Graduate,No,Yes,69.8
+S0320,Female,19,68.4,72.7,70.2,21.8,4,6.5,6.1,Postgraduate,No,No,80.0
+S0321,Male,17,72.1,43.3,38.3,8.7,2,7.2,3.3,Graduate,Yes,Yes,60.9
+S0322,Male,18,81.3,71.6,67.6,16.5,6,6.5,4.3,Graduate,Yes,No,76.1
+S0323,Female,20,84.7,59.1,68.8,17.8,8,7.7,4.5,High School,Yes,No,76.9
+S0324,Female,22,77.3,72.2,71.2,15.5,6,5.2,6.1,Graduate,Yes,No,79.3
+S0325,Female,22,78.8,39.8,59.9,7.2,6,6.3,4.3,High School,Yes,No,53.5
+S0326,Male,18,78.6,56.6,47.5,19.0,7,8.8,7.8,Postgraduate,No,No,71.1
+S0327,Male,21,79.6,67.3,73.9,18.1,6,6.2,4.2,High School,Yes,No,79.9
+S0328,Male,17,77.3,72.9,70.1,15.0,4,6.6,4.1,Graduate,Yes,No,78.4
+S0329,Male,21,75.2,76.4,76.5,13.0,5,5.9,4.2,High School,No,No,78.8
+S0330,Female,19,83.2,58.6,66.1,13.1,7,7.1,2.1,High School,No,Yes,76.8
+S0331,Female,19,83.7,76.8,,11.6,6,6.1,2.6,Graduate,No,No,75.9
+S0332,Male,21,82.3,57.0,62.9,15.2,7,6.6,3.5,Graduate,Yes,Yes,79.4
+S0333,Male,19,65.7,69.2,59.3,12.2,4,7.6,6.5,Graduate,No,Yes,72.9
+S0334,Female,21,67.7,42.4,51.0,7.8,4,6.1,4.4,,Yes,Yes,56.6
+S0335,Male,20,80.7,56.4,37.7,6.8,5,7.6,3.6,Postgraduate,Yes,No,64.9
+S0336,Female,22,87.8,27.5,44.6,8.2,5,7.6,6.7,Postgraduate,No,No,53.2
+S0337,Female,20,77.3,45.8,53.1,13.1,7,7.9,7.3,High School,No,No,62.9
+S0338,Male,18,72.3,62.0,57.1,11.9,1,6.9,6.8,Graduate,Yes,No,57.6
+S0339,Male,21,82.3,43.6,50.2,13.1,5,,3.0,Postgraduate,No,Yes,73.1
+S0340,Female,19,70.0,64.2,63.5,14.5,5,7.9,3.6,High School,Yes,No,70.7
+S0341,Female,20,85.6,63.8,69.4,8.9,3,7.1,7.8,High School,Yes,No,69.5
+S0342,Male,17,,58.8,92.5,19.3,7,5.9,4.9,Graduate,Yes,No,80.9
+S0343,Female,17,72.2,45.0,60.2,10.7,4,6.7,4.0,Graduate,No,Yes,65.4
+S0344,Female,20,74.6,49.6,47.6,9.8,4,8.2,5.8,Graduate,Yes,Yes,69.0
+S0345,Female,18,72.7,48.8,61.3,14.4,8,8.5,6.3,Postgraduate,No,No,72.7
+S0346,Male,22,87.5,46.7,48.9,2.8,6,8.3,3.5,Graduate,Yes,No,66.9
+S0347,Female,22,74.5,54.2,45.4,8.0,6,7.6,4.9,Graduate,No,No,65.6
+S0348,Female,21,80.0,58.5,54.0,16.9,6,5.5,6.2,High School,No,No,72.1
+S0349,Male,21,82.1,66.7,54.5,3.3,4,7.3,2.4,Graduate,Yes,No,63.7
+S0350,Male,20,73.8,54.7,69.1,17.6,9,5.6,4.5,High School,Yes,No,75.2
+S0351,Female,17,85.1,79.9,65.6,19.6,7,,2.5,Graduate,Yes,Yes,90.3
+S0352,Male,19,81.8,43.7,43.4,10.2,4,7.0,2.7,Postgraduate,No,Yes,70.0
+S0353,Male,19,65.9,59.3,65.6,13.5,3,7.3,3.5,High School,Yes,Yes,71.7
+S0354,Male,22,82.0,75.6,74.5,17.6,7,7.7,5.4,High School,No,No,86.2
+S0355,Female,18,77.5,67.1,72.9,9.7,5,7.3,3.9,Postgraduate,Yes,No,78.0
+S0356,Female,19,82.4,56.7,51.2,16.3,3,7.3,3.3,High School,No,No,74.4
+S0357,Male,19,77.2,59.8,75.3,8.6,5,5.8,4.6,Graduate,No,No,71.6
+S0358,Female,17,81.7,59.2,,9.6,5,6.7,2.4,Graduate,No,No,71.8
+S0359,Male,17,88.0,47.1,32.7,8.0,6,5.3,5.3,Graduate,No,No,53.1
+S0360,Female,19,66.3,65.5,64.3,13.7,6,4.8,6.5,High School,Yes,No,65.5
+S0361,Female,17,77.7,83.3,69.5,17.8,5,7.5,4.4,Graduate,No,No,78.1
+S0362,Female,17,84.3,61.3,59.5,11.1,6,6.0,4.1,High School,Yes,No,75.2
+S0363,Male,19,79.4,56.9,51.3,5.6,4,7.7,5.2,Graduate,No,No,66.5
+S0364,Female,18,83.9,59.0,52.5,6.6,4,7.9,0.8,High School,No,No,73.0
+S0365,Male,20,100.0,42.9,45.8,14.0,5,6.2,5.5,Graduate,No,No,62.4
+S0366,Female,17,82.0,71.3,78.9,21.2,8,7.4,10.0,Graduate,No,No,81.7
+S0367,Male,18,89.5,47.8,52.7,14.0,5,6.1,4.3,,Yes,No,66.8
+S0368,Male,19,75.0,48.6,60.6,10.1,7,5.0,4.3,High School,Yes,No,71.2
+S0369,Male,22,69.6,84.6,75.9,15.8,8,6.9,5.8,High School,Yes,Yes,95.2
+S0370,Female,20,72.0,53.0,47.2,10.8,4,6.3,7.5,High School,No,No,62.9
+S0371,Male,22,82.2,47.0,37.4,10.1,1,6.4,6.3,High School,No,No,56.3
+S0372,Female,19,83.9,64.9,56.5,7.2,7,8.8,0.6,Postgraduate,Yes,Yes,85.6
+S0373,Male,19,83.7,53.6,53.4,19.0,6,5.3,5.5,Graduate,Yes,No,70.4
+S0374,Male,19,66.9,40.1,26.2,0.0,2,7.2,9.1,Graduate,Yes,Yes,43.3
+S0375,Female,22,,74.7,76.3,16.0,4,5.8,5.6,Postgraduate,Yes,No,80.2
+S0376,Male,22,77.8,55.2,40.8,9.7,4,7.7,2.4,High School,Yes,No,61.7
+S0377,Female,22,83.5,37.8,57.0,9.9,7,7.1,5.0,Graduate,No,Yes,65.9
+S0378,Female,21,91.6,71.4,76.0,20.5,7,7.2,2.2,Postgraduate,No,No,86.8
+S0379,Male,20,65.6,49.1,,8.4,6,5.9,6.7,Graduate,Yes,No,63.4
+S0380,Male,20,85.5,70.5,54.1,8.6,6,6.0,2.8,Graduate,No,No,77.3
+S0381,Male,22,72.0,49.7,59.8,11.3,4,7.7,4.6,Graduate,No,Yes,73.8
+S0382,Female,18,84.9,70.6,67.9,14.1,5,8.6,3.0,High School,Yes,No,75.6
+S0383,Female,19,76.7,74.3,60.2,9.8,6,7.3,3.5,Graduate,Yes,No,84.3
+S0384,Male,22,86.6,39.8,42.6,4.1,6,5.9,7.2,Postgraduate,Yes,No,50.0
+S0385,Male,19,72.6,50.5,37.0,7.7,6,7.1,4.7,Postgraduate,Yes,Yes,60.1
+S0386,Male,18,83.5,67.7,57.5,18.4,6,9.0,3.5,High School,No,No,78.6
+S0387,Male,20,86.0,47.9,44.8,12.4,6,6.9,2.4,Graduate,No,No,72.3
+S0388,Female,18,74.7,62.2,66.3,14.3,6,8.3,1.1,High School,Yes,No,79.6
+S0389,Female,22,79.4,53.2,54.9,10.7,4,6.1,2.2,Postgraduate,No,No,67.8
+S0390,Male,22,74.4,51.0,60.1,8.7,3,6.8,4.7,High School,Yes,Yes,63.5
+S0391,Female,18,75.3,65.9,64.3,20.4,5,7.4,6.3,Postgraduate,No,Yes,76.6
+S0392,Male,20,75.0,56.8,61.9,11.1,5,7.2,3.5,Postgraduate,No,No,75.6
+S0393,Male,22,84.6,56.6,55.0,9.8,6,6.0,7.3,High School,Yes,No,69.0
+S0394,Female,21,76.4,55.9,55.7,17.5,8,6.0,3.2,High School,Yes,Yes,82.4
+S0395,Female,18,82.4,47.3,52.5,8.4,3,,4.1,Postgraduate,No,No,64.9
+S0396,Female,20,81.9,52.7,52.5,9.0,4,8.0,2.6,High School,No,No,57.8
+S0397,Male,20,64.0,56.6,53.1,12.1,4,8.3,6.3,Graduate,Yes,Yes,63.8
+S0398,Male,20,79.2,52.2,56.0,12.0,6,8.6,8.3,Postgraduate,Yes,Yes,71.7
+S0399,Male,17,69.3,61.9,61.3,13.3,4,6.9,1.3,Graduate,Yes,No,72.7
+S0400,Male,18,88.8,47.5,62.4,22.5,6,6.5,3.9,High School,No,No,73.3
+S0401,Female,22,72.1,50.6,53.2,13.7,3,8.2,6.8,Graduate,No,Yes,62.6
+S0402,Female,18,,42.0,27.8,0.1,5,7.5,1.9,High School,No,No,56.4
+S0403,Male,18,66.3,49.2,56.3,13.6,5,5.8,5.5,Postgraduate,No,No,66.6
+S0404,Female,18,77.3,75.1,62.1,12.2,4,5.8,6.7,High School,No,No,75.4
+S0405,Male,18,86.6,57.4,50.6,12.2,5,7.3,4.6,High School,No,No,67.2
+S0406,Female,17,70.5,60.2,59.4,13.2,7,6.6,5.5,High School,Yes,No,72.0
+S0407,Male,19,69.6,51.5,61.1,11.9,3,6.8,7.7,Postgraduate,No,No,58.6
+S0408,Male,22,78.8,56.6,59.3,11.7,4,7.9,8.0,High School,Yes,Yes,68.6
+S0409,Female,17,84.0,46.7,51.5,15.1,8,7.6,4.4,Postgraduate,Yes,No,62.2
+S0410,Male,18,56.3,52.4,48.6,9.3,4,8.1,3.5,,No,Yes,59.8
+S0411,Male,17,96.2,42.0,50.4,,6,4.9,2.8,Postgraduate,No,No,63.3
+S0412,Male,20,87.3,69.1,60.9,27.1,8,7.1,6.3,Postgraduate,No,Yes,98.0
+S0413,Male,18,85.6,25.3,43.7,8.4,5,7.5,2.0,Postgraduate,Yes,No,50.8
+S0414,Male,21,77.7,45.1,37.3,12.5,5,5.3,4.0,Postgraduate,No,Yes,59.9
+S0415,Male,20,58.4,65.6,44.3,,5,6.1,4.7,High School,No,Yes,66.0
+S0416,Female,21,85.5,66.7,60.2,12.6,7,6.0,3.6,Graduate,Yes,Yes,86.7
+S0417,Female,20,70.8,66.8,76.5,7.3,6,6.8,5.0,Graduate,Yes,No,75.3
+S0418,Male,19,77.7,70.1,76.7,9.8,3,8.4,9.1,Graduate,No,No,75.2
+S0419,Male,22,78.6,69.6,76.2,17.2,8,8.8,4.3,Postgraduate,Yes,Yes,88.3
+S0420,Female,19,82.2,54.4,62.1,14.4,5,6.0,3.7,Postgraduate,No,No,70.8
+S0421,Female,22,70.6,48.4,41.6,14.8,4,7.3,6.3,Graduate,Yes,No,61.6
+S0422,Female,22,82.1,60.8,52.8,3.1,4,7.4,4.9,Graduate,Yes,No,62.6
+S0423,Female,20,68.7,66.9,68.6,21.2,7,7.2,7.1,Graduate,No,No,82.0
+S0424,Female,21,95.8,78.5,57.7,6.0,6,7.2,4.8,High School,Yes,No,71.9
+S0425,Male,18,100.0,60.6,69.2,19.6,6,7.1,4.1,High School,No,Yes,88.1
+S0426,Male,21,98.2,83.8,74.4,17.1,8,8.5,1.3,High School,No,No,95.6
+S0427,Female,21,93.8,58.2,68.8,14.9,6,7.9,1.6,High School,Yes,Yes,82.5
+S0428,Female,22,79.1,67.4,44.3,7.7,4,5.7,1.2,High School,No,No,63.8
+S0429,Male,18,88.4,76.4,70.4,12.8,4,7.6,5.2,Graduate,No,No,77.4
+S0430,Female,21,78.9,43.4,41.5,9.6,6,7.7,2.0,Graduate,No,No,67.8
+S0431,Male,19,62.1,51.8,52.4,12.1,4,7.1,6.8,Postgraduate,No,No,61.8
+S0432,Female,18,91.3,44.4,52.6,10.8,3,7.9,4.6,Graduate,No,No,64.9
+S0433,Female,18,84.8,33.3,26.2,1.8,6,7.0,4.1,High School,No,No,47.1
+S0434,Male,20,81.8,69.9,72.4,17.6,5,7.0,3.0,High School,Yes,Yes,85.5
+S0435,Male,18,66.0,54.4,54.8,11.6,7,6.9,5.6,High School,No,Yes,64.9
+S0436,Male,17,73.5,55.2,49.6,9.6,2,4.8,3.1,Postgraduate,No,No,63.8
+S0437,Female,19,62.6,60.3,53.6,9.2,4,6.7,2.7,High School,No,No,67.9
+S0438,Female,20,85.4,38.4,48.7,13.8,4,,6.6,Graduate,No,No,60.7
+S0439,Male,18,61.4,66.7,53.1,7.5,2,5.6,5.1,Postgraduate,Yes,Yes,64.3
+S0440,Male,22,76.8,41.9,38.8,0.7,3,8.2,4.1,Postgraduate,No,No,52.5
+S0441,Female,21,70.4,64.9,62.5,14.0,8,7.3,5.7,High School,No,Yes,80.3
+S0442,Male,20,66.5,66.4,61.2,14.6,5,6.8,4.5,High School,Yes,Yes,75.7
+S0443,Male,22,79.4,71.1,77.8,11.0,4,6.2,5.2,High School,Yes,Yes,78.9
+S0444,Male,19,74.5,50.1,52.1,6.3,1,,3.0,High School,No,No,66.4
+S0445,Female,17,82.3,34.1,43.1,12.4,3,7.8,8.2,High School,No,No,50.4
+S0446,Female,17,65.0,50.3,48.5,4.7,3,6.0,3.5,Graduate,No,No,61.8
+S0447,Male,22,66.6,54.1,43.4,6.9,3,6.8,7.3,Postgraduate,Yes,No,53.5
+S0448,Female,22,55.6,41.9,42.8,8.2,3,7.7,4.2,Graduate,Yes,No,56.9
+S0449,Female,21,58.9,62.8,63.2,16.2,1,4.9,6.0,Graduate,No,No,69.3
+S0450,Male,17,92.4,51.2,43.4,10.2,5,6.7,5.8,High School,No,No,62.0
+S0451,Female,18,94.1,40.0,49.9,9.8,7,6.4,6.6,Graduate,No,No,58.1
+S0452,Female,17,84.6,74.2,73.5,21.8,9,6.7,3.0,Graduate,No,No,84.1
+S0453,Male,17,69.7,52.6,54.8,13.8,2,6.3,6.4,Postgraduate,No,Yes,64.1
+S0454,Male,18,73.0,54.2,54.0,13.7,4,6.9,7.8,Postgraduate,No,Yes,69.9
+S0455,Female,20,85.9,50.1,76.4,10.2,4,8.7,4.0,High School,No,No,67.8
+S0456,Female,17,72.4,67.6,55.9,9.0,5,6.5,4.6,High School,No,No,70.6
+S0457,Male,22,77.0,45.6,24.6,1.1,2,7.1,3.6,High School,No,No,44.7
+S0458,Female,19,80.7,62.7,53.5,16.8,8,8.8,3.9,Graduate,Yes,No,77.8
+S0459,Female,18,71.0,54.4,65.2,14.2,5,6.2,7.6,Postgraduate,Yes,Yes,67.3
+S0460,Male,20,75.0,61.2,70.5,11.1,5,8.6,2.7,High School,No,No,75.3
+S0461,Female,21,82.4,71.2,60.0,11.3,8,6.8,2.8,Graduate,No,No,78.4
+S0462,Male,18,68.1,67.8,78.2,15.7,5,8.6,7.4,Graduate,No,No,73.4
+S0463,Female,17,78.1,56.8,56.4,4.2,5,7.6,5.6,High School,Yes,Yes,64.8
+S0464,Male,17,69.1,60.7,55.9,9.1,3,7.1,8.3,High School,No,Yes,62.2
+S0465,Male,22,78.0,36.1,39.1,6.3,2,6.7,3.7,Graduate,Yes,No,48.1
+S0466,Female,17,94.1,56.2,68.2,20.9,6,6.2,4.7,Graduate,No,No,83.1
+S0467,Male,20,79.7,59.1,70.9,16.4,9,6.9,3.3,Graduate,No,No,79.6
+S0468,Female,19,81.9,38.0,40.1,1.0,5,7.7,4.8,High School,No,No,45.3
+S0469,Male,21,62.3,37.7,,4.4,4,6.8,1.3,Graduate,No,No,50.9
+S0470,Female,17,72.6,35.7,44.6,11.3,3,6.5,5.7,High School,Yes,No,57.3
+S0471,Female,22,77.0,39.8,62.4,9.6,6,6.5,5.1,Postgraduate,Yes,No,61.2
+S0472,Female,21,,47.6,48.5,5.4,3,7.8,4.4,High School,No,No,66.3
+S0473,Male,19,65.3,66.0,80.0,21.7,3,8.0,3.8,High School,No,No,77.8
+S0474,Male,18,79.7,49.8,60.3,13.6,4,6.1,2.9,Graduate,No,No,70.7
+S0475,Female,22,91.0,60.2,64.7,14.4,9,6.1,5.8,Graduate,Yes,No,81.4
+S0476,Female,18,72.0,48.8,51.2,8.5,8,7.2,2.4,Graduate,Yes,No,68.9
+S0477,Female,19,76.9,72.6,77.7,15.6,5,8.3,5.4,Graduate,Yes,No,77.3
+S0478,Male,19,76.8,53.3,60.2,10.1,4,7.9,8.2,Postgraduate,Yes,No,61.6
+S0479,Female,18,76.7,63.2,62.5,10.6,2,5.5,7.2,Graduate,Yes,No,70.5
+S0480,Male,19,96.3,62.3,58.8,15.1,6,6.5,1.8,Graduate,No,No,76.7
+S0481,Male,17,80.0,33.4,40.3,3.9,5,5.9,3.5,Graduate,No,No,56.6
+S0482,Female,17,92.7,64.0,69.6,20.0,8,6.5,5.3,High School,Yes,No,81.4
+S0483,Male,18,75.6,44.3,49.8,12.9,7,8.4,4.4,Graduate,Yes,No,66.8
+S0484,Female,17,76.7,62.2,89.1,18.4,5,5.4,2.0,High School,Yes,No,78.1
+S0485,Male,19,73.4,43.4,33.2,6.6,5,5.2,5.2,Graduate,No,No,52.0
+S0486,Male,22,66.0,56.6,61.2,7.4,3,6.0,4.5,High School,Yes,No,60.4
+S0487,Male,17,76.9,36.4,34.3,6.2,5,7.1,7.9,Postgraduate,No,No,52.1
+S0488,Female,17,75.8,58.4,61.4,13.3,4,7.4,4.0,Graduate,No,No,71.8
+S0489,Female,17,70.3,63.6,82.9,12.3,6,7.2,6.6,Postgraduate,Yes,Yes,81.6
+S0490,Female,20,84.1,64.7,52.5,9.7,6,8.0,2.2,Graduate,No,No,73.1
+S0491,Female,18,,43.5,40.1,6.9,4,5.0,2.6,,No,No,52.6
+S0492,Female,19,81.4,50.9,48.5,5.7,6,,5.8,Postgraduate,Yes,Yes,67.2
+S0493,Female,17,71.9,58.8,52.3,11.8,2,6.5,6.5,Graduate,Yes,No,60.1
+S0494,Female,18,89.5,71.7,71.2,9.7,4,7.5,2.8,Graduate,No,No,83.6
+S0495,Male,19,73.4,37.3,39.8,8.6,4,5.5,4.5,Graduate,No,Yes,56.7
+S0496,Male,19,89.6,54.7,70.1,19.7,4,6.8,2.0,Graduate,No,No,77.7
+S0497,Male,20,80.1,87.4,,11.6,5,7.0,4.2,Postgraduate,No,No,85.6
+S0498,Male,21,86.0,60.3,52.1,18.4,5,8.0,6.0,Graduate,Yes,No,73.5
+S0499,Female,19,79.0,33.5,40.9,60.0,7,5.2,3.7,High School,No,No,51.1
+S0500,Male,22,64.3,51.8,44.2,13.2,5,6.8,4.1,Graduate,No,No,60.3
+S0501,Male,20,89.3,26.3,53.3,11.7,7,5.7,2.5,Graduate,Yes,No,65.3
+S0502,Female,18,75.3,51.2,34.4,3.5,5,7.3,3.3,Postgraduate,No,No,59.8
+S0503,Female,18,85.1,73.0,,19.1,5,7.6,7.7,High School,No,Yes,76.9
+S0504,Female,18,84.1,46.3,,11.3,6,8.1,4.6,Graduate,No,No,68.5
+S0505,Male,20,74.6,55.6,56.6,15.7,7,6.3,2.7,Graduate,Yes,No,71.8
+S0506,Male,18,69.1,63.4,46.0,8.2,6,7.7,3.9,Graduate,Yes,No,65.3
+S0507,Female,22,86.7,36.9,62.8,11.2,5,8.2,1.6,Graduate,No,No,63.5
+S0508,Male,19,75.7,38.1,35.6,7.7,2,5.2,2.7,Graduate,No,No,56.5
+S0509,Male,22,86.8,60.7,65.0,18.2,3,7.4,6.9,High School,No,No,66.4
+S0510,Male,21,77.6,50.3,54.5,13.6,5,7.8,4.2,Graduate,No,Yes,68.2
+S0511,Female,19,84.8,55.6,65.1,13.8,2,6.5,7.9,High School,No,No,66.9
+S0512,Female,18,85.0,49.9,64.9,18.8,9,5.6,4.3,High School,Yes,No,81.5
+S0513,Female,21,83.3,65.1,62.0,17.8,7,7.7,4.4,Graduate,Yes,No,82.1
+S0514,Female,18,75.3,59.2,60.8,15.8,4,5.6,5.7,Graduate,Yes,No,67.4
+S0515,Female,18,81.5,55.9,48.8,4.9,3,6.6,0.5,Postgraduate,Yes,No,71.8
+S0516,Male,22,87.3,55.7,60.2,,7,6.8,4.9,High School,No,No,65.5
+S0517,Female,19,75.9,54.3,42.5,7.0,3,7.5,4.4,High School,Yes,No,61.5
+S0518,Male,17,81.9,44.7,71.4,15.6,4,6.2,7.2,Postgraduate,Yes,Yes,72.4
+S0519,Male,19,77.3,63.3,56.6,12.9,4,6.1,6.2,High School,No,No,65.9
+S0520,Female,19,,46.4,45.5,5.0,5,6.9,2.5,High School,Yes,No,63.2
+S0521,Male,22,91.2,54.2,46.6,11.1,7,7.8,6.7,High School,Yes,No,65.7
+S0522,Male,21,86.6,61.1,42.7,4.5,7,9.0,4.0,Graduate,No,No,71.1
+S0523,Male,18,80.5,48.8,46.6,11.7,7,5.3,2.9,Postgraduate,Yes,Yes,64.1
+S0524,Female,17,76.6,63.6,45.9,3.7,4,7.1,4.9,Graduate,No,No,65.1
+S0525,Male,20,73.4,75.5,67.9,14.6,7,5.7,4.1,Graduate,No,No,80.0
+S0526,Male,17,74.7,67.2,58.0,13.9,4,7.8,7.3,High School,Yes,No,75.1
+S0527,Female,18,84.3,55.8,72.8,21.5,3,5.9,5.1,High School,No,Yes,78.2
+S0528,Male,17,87.3,37.2,45.4,16.2,5,6.1,4.9,Graduate,No,Yes,69.9
+S0529,Female,17,82.6,66.8,54.4,9.9,4,6.2,6.1,High School,No,No,70.9
+S0530,Female,22,68.0,62.3,62.2,16.1,4,6.7,6.5,High School,No,No,70.0
+S0531,Female,17,,41.8,51.0,5.0,3,7.1,5.9,High School,No,Yes,61.8
+S0532,Male,17,73.0,65.1,59.7,7.2,4,7.3,7.1,High School,No,Yes,72.4
+S0533,Male,22,69.0,49.2,54.9,13.7,6,6.8,5.6,Graduate,No,No,67.5
+S0534,Male,18,85.7,41.5,27.6,1.2,7,5.5,4.8,Graduate,Yes,Yes,48.2
+S0535,Female,21,89.2,62.6,52.1,11.8,3,7.5,6.7,High School,No,No,64.9
+S0536,Male,17,78.8,39.6,33.5,6.9,3,6.7,4.3,Graduate,No,No,58.4
+S0537,Male,17,84.8,56.3,68.9,12.5,4,8.0,4.6,Graduate,No,Yes,71.6
+S0538,Male,17,80.0,63.6,60.8,6.6,6,6.1,7.6,Graduate,Yes,No,71.1
+S0539,Female,21,88.8,61.4,56.0,14.1,5,5.2,7.4,Graduate,Yes,Yes,75.7
+S0540,Male,20,84.9,70.8,61.5,12.1,4,6.8,4.5,Graduate,No,No,73.5
+S0541,Female,19,70.0,76.5,69.5,19.0,7,8.1,3.7,Postgraduate,No,No,79.6
+S0542,Male,18,93.8,57.1,51.4,12.0,7,7.0,7.1,High School,Yes,No,67.7
+S0543,Male,17,84.9,27.5,41.9,8.2,5,6.6,5.9,High School,Yes,No,59.3
+S0544,Male,20,72.7,43.6,47.4,10.8,3,5.9,5.1,High School,Yes,Yes,57.7
+S0545,Female,18,66.9,58.7,69.2,5.3,4,8.6,3.9,Graduate,No,No,65.6
+S0546,Male,20,83.1,42.0,62.1,14.0,5,5.8,5.1,High School,Yes,No,61.8
+S0547,Male,21,77.0,56.4,71.4,14.9,5,6.1,4.5,,No,No,77.4
+S0548,Female,22,87.4,73.1,84.9,24.3,6,7.4,3.3,Graduate,Yes,No,91.5
+S0549,Female,19,,70.1,59.0,8.9,7,4.9,4.7,High School,Yes,Yes,74.9
+S0550,Female,17,72.2,49.3,57.6,10.7,5,8.1,5.0,High School,Yes,No,70.1
+S0551,Female,18,67.8,47.0,47.2,9.1,6,7.4,3.8,High School,No,No,64.1
+S0552,Male,22,80.6,57.5,72.7,13.1,7,7.7,6.1,Graduate,No,No,71.9
+S0553,Female,20,71.9,62.8,66.7,13.9,6,7.4,6.8,High School,No,No,68.6
+S0554,Male,20,77.8,55.0,59.1,11.7,4,6.6,6.2,High School,No,No,70.2
+S0555,Female,19,68.9,74.0,74.1,17.4,7,5.7,4.0,High School,Yes,Yes,85.8
+S0556,Female,17,,45.1,62.7,8.9,5,6.7,5.9,Graduate,No,No,57.3
+S0557,Female,22,86.6,63.3,55.2,16.9,10,5.8,4.6,Postgraduate,Yes,No,73.8
+S0558,Female,21,87.1,64.6,79.9,14.7,6,7.3,2.3,Graduate,Yes,No,79.6
+S0559,Female,22,,52.5,54.3,11.9,6,7.6,5.7,Graduate,No,No,62.2
+S0560,Female,22,66.9,64.7,49.7,10.4,5,8.3,4.8,Postgraduate,Yes,No,62.8
+S0561,Female,18,78.6,70.8,72.0,24.1,6,7.2,9.2,Postgraduate,No,No,78.7
+S0562,Male,18,79.1,61.6,43.6,7.9,4,7.7,7.1,Graduate,No,No,60.4
+S0563,Male,18,81.3,60.6,67.1,13.5,6,6.5,5.8,Postgraduate,No,No,73.2
+S0564,Male,22,71.7,57.4,46.5,8.2,5,6.3,4.9,Postgraduate,No,Yes,73.5
+S0565,Female,20,84.3,59.0,69.7,20.9,8,7.3,4.8,Graduate,No,No,80.8
+S0566,Male,19,95.4,54.5,70.5,16.4,7,6.4,2.7,Graduate,Yes,No,79.2
+S0567,Male,22,81.9,67.1,55.1,8.6,4,7.1,1.4,High School,Yes,No,75.1
+S0568,Male,20,66.2,66.6,64.0,14.6,4,5.7,2.9,High School,Yes,No,73.1
+S0569,Female,22,80.7,47.0,43.7,13.3,3,5.9,4.4,Graduate,No,No,63.2
+S0570,Female,22,99.5,56.4,52.3,9.4,8,7.4,0.7,Graduate,No,No,77.5
+S0571,Female,17,69.2,34.7,70.5,15.8,4,7.7,3.5,Graduate,Yes,No,65.9
+S0572,Male,19,79.8,52.6,64.1,13.9,7,5.8,4.1,Graduate,No,Yes,85.2
+S0573,Male,21,77.1,68.6,63.7,13.1,6,7.5,4.1,Graduate,No,No,80.9
+S0574,Male,21,80.3,55.4,52.4,11.8,6,6.3,3.3,Postgraduate,No,No,66.8
+S0575,Male,17,81.5,60.5,62.1,14.2,5,6.8,3.9,High School,No,No,75.1
+S0576,Male,18,85.9,25.0,42.9,13.1,4,8.2,7.6,High School,No,No,50.0
+S0577,Female,20,78.0,53.0,53.1,12.3,4,7.6,5.7,Graduate,No,No,67.5
+S0578,Female,21,89.5,57.5,59.7,8.8,8,7.6,3.5,Postgraduate,No,Yes,73.3
+S0579,Female,17,80.8,70.6,66.7,20.5,6,8.7,4.4,Postgraduate,Yes,No,81.0
+S0580,Male,20,73.1,62.3,48.4,6.7,6,6.1,4.4,Postgraduate,No,Yes,71.6
+S0581,Male,18,74.5,56.8,63.4,14.1,7,5.8,3.1,Postgraduate,Yes,No,78.3
+S0582,Female,18,62.7,53.6,45.5,10.4,4,6.1,3.1,High School,No,No,64.0
+S0583,Male,20,82.5,51.1,69.8,20.8,7,6.5,6.3,Graduate,Yes,No,78.7
+S0584,Male,19,95.7,50.2,50.0,7.5,5,4.4,3.7,High School,Yes,No,65.6
+S0585,Male,20,82.9,39.4,30.4,8.3,3,6.6,2.5,Graduate,Yes,No,56.3
+S0586,Female,18,82.6,31.8,40.5,7.2,5,6.3,4.4,Postgraduate,Yes,No,53.1
+S0587,Female,21,75.0,46.7,40.8,13.6,6,7.6,4.7,High School,Yes,No,66.2
+S0588,Male,17,76.9,66.7,62.4,5.1,4,7.2,0.9,Graduate,Yes,No,76.7
+S0589,Female,22,86.3,51.6,51.0,9.6,5,6.2,4.4,High School,No,No,65.1
+S0590,Female,17,90.5,48.7,57.8,1.2,4,7.4,6.1,High School,Yes,Yes,62.6
+S0591,Female,21,91.4,52.6,65.7,13.2,9,7.5,5.3,High School,No,No,80.8
+S0592,Female,19,80.5,34.8,,9.5,2,6.0,8.5,High School,No,No,48.1
+S0593,Male,19,73.4,59.9,36.3,4.6,5,6.3,6.8,Postgraduate,No,No,60.1
+S0594,Female,17,79.8,38.5,47.6,17.4,5,4.6,7.1,Graduate,Yes,Yes,64.8
+S0595,Male,21,63.9,44.4,35.1,5.5,3,5.7,9.5,Postgraduate,Yes,Yes,50.8
+S0596,Female,17,65.5,60.4,78.8,16.0,5,6.1,5.9,Graduate,No,No,71.6
+S0597,Female,20,66.5,56.0,54.2,8.5,5,6.9,4.8,High School,Yes,No,65.8
+S0598,Female,21,80.2,57.0,73.8,20.0,7,5.9,6.3,High School,Yes,No,77.1
+S0599,Female,22,78.2,40.5,50.8,15.7,6,6.3,3.5,Graduate,No,No,72.1
+S0600,Female,21,62.9,43.1,44.3,7.0,6,5.6,4.7,High School,No,No,59.0
+S0601,Female,18,77.3,44.2,46.5,7.4,7,7.0,3.3,Postgraduate,Yes,Yes,64.4
+S0602,Female,21,75.9,51.5,,15.0,7,7.2,5.2,High School,No,Yes,77.7
+S0603,Female,21,68.4,66.4,64.7,10.7,4,7.2,3.3,Graduate,No,No,74.3
+S0604,Male,18,75.9,42.8,41.2,11.2,6,6.8,3.3,Graduate,No,Yes,69.6
+S0605,Female,17,77.2,66.7,,18.4,7,5.3,5.2,High School,Yes,No,80.3
+S0606,Female,22,71.5,55.0,51.2,8.3,3,6.2,4.3,High School,Yes,Yes,65.9
+S0607,Male,17,90.3,68.0,61.2,12.5,3,6.4,1.0,Postgraduate,No,Yes,81.2
+S0608,Female,20,65.7,60.3,42.3,16.8,2,6.4,1.9,High School,Yes,Yes,70.7
+S0609,Female,18,64.1,69.7,74.5,16.0,5,6.9,2.4,Graduate,No,Yes,80.4
+S0610,Female,17,79.6,54.3,56.9,11.2,6,8.2,2.9,Graduate,Yes,Yes,76.6
+S0611,Female,21,77.8,60.3,59.5,10.6,3,7.6,5.2,High School,No,No,69.7
+S0612,Male,17,78.1,31.8,32.6,3.3,6,5.8,4.9,Graduate,No,No,54.4
+S0613,Female,21,69.4,25.0,30.9,6.7,4,7.5,6.4,Graduate,No,No,45.4
+S0614,Male,21,69.3,62.7,60.1,13.6,7,7.4,5.9,High School,No,No,71.2
+S0615,Female,17,76.0,61.1,63.6,11.3,6,6.0,6.4,Postgraduate,Yes,No,74.1
+S0616,Female,18,73.4,62.6,66.9,12.4,3,7.6,5.6,High School,No,No,68.0
+S0617,Male,21,94.0,56.4,61.4,17.2,7,6.6,4.9,High School,Yes,No,80.2
+S0618,Male,20,71.0,67.5,65.8,6.1,5,5.4,6.5,Graduate,No,Yes,75.5
+S0619,Male,17,75.7,50.8,53.1,10.8,4,7.3,6.2,Postgraduate,No,No,68.5
+S0620,Male,22,100.0,62.6,58.3,12.9,4,7.0,5.2,High School,No,No,75.1
+S0621,Male,18,72.9,60.0,58.1,8.5,5,6.6,6.8,High School,No,No,64.0
+S0622,Male,17,90.2,83.1,69.0,19.2,5,6.8,0.5,Graduate,No,Yes,94.8
+S0623,Male,22,86.5,58.1,65.3,16.5,8,6.1,4.0,Graduate,Yes,No,79.7
+S0624,Male,17,86.0,51.3,44.3,13.5,5,7.4,3.9,,No,No,65.0
+S0625,Female,20,82.4,49.5,55.0,21.0,9,6.8,6.6,High School,No,No,77.8
+S0626,Male,22,,66.6,40.0,4.5,1,7.0,7.3,Graduate,Yes,No,60.9
+S0627,Male,20,,61.6,59.4,12.0,5,7.2,1.9,High School,No,No,71.4
+S0628,Male,20,71.3,63.8,76.8,13.8,7,5.6,7.0,High School,Yes,No,81.6
+S0629,Female,19,81.5,86.7,69.2,7.4,3,5.9,2.4,High School,Yes,No,81.0
+S0630,Male,17,99.2,62.1,67.8,13.5,6,4.6,2.4,Graduate,Yes,Yes,78.4
+S0631,Female,20,87.4,37.1,60.7,6.5,4,7.4,4.1,Graduate,Yes,Yes,61.1
+S0632,Male,22,83.0,58.3,65.7,15.5,5,5.6,3.9,Postgraduate,No,No,80.4
+S0633,Male,17,90.9,51.6,54.5,17.3,7,6.9,1.7,Graduate,No,No,82.6
+S0634,Male,22,69.9,54.0,53.0,13.4,3,7.2,5.7,Graduate,No,No,68.2
+S0635,Male,19,105.0,43.3,41.6,2.7,4,7.4,5.7,Postgraduate,No,No,58.7
+S0636,Female,20,,45.7,42.2,7.2,6,5.6,6.4,Graduate,Yes,Yes,65.9
+S0637,Male,17,93.6,44.5,49.8,14.8,6,6.7,3.7,Graduate,No,No,70.6
+S0638,Male,20,71.5,74.6,76.0,12.1,3,8.5,4.4,Postgraduate,Yes,Yes,83.8
+S0639,Female,18,69.2,48.3,,,5,8.5,4.4,High School,No,No,59.4
+S0640,Female,18,97.4,60.7,53.4,18.2,8,7.8,7.5,Graduate,Yes,No,79.6
+S0641,Female,21,83.4,66.0,57.4,12.7,4,7.1,0.5,Graduate,No,Yes,77.6
+S0642,Female,17,94.8,58.1,51.1,7.9,3,5.8,2.8,High School,No,Yes,73.1
+S0643,Female,19,82.1,65.0,72.5,17.0,4,7.5,4.5,Graduate,No,No,84.1
+S0644,Male,20,81.1,61.1,66.4,8.6,6,6.6,2.5,High School,No,Yes,76.2
+S0645,Female,17,74.6,55.0,75.4,8.6,5,7.4,4.0,High School,Yes,Yes,72.8
+S0646,Male,18,87.7,66.2,61.5,13.8,7,6.2,4.3,Graduate,No,No,79.8
+S0647,Male,19,95.3,74.2,73.4,20.9,6,6.6,3.3,High School,No,No,86.2
+S0648,Female,20,72.1,66.9,76.6,20.1,4,7.0,4.6,Graduate,No,No,75.9
+S0649,Female,22,74.7,56.4,54.3,13.8,7,7.0,5.6,Postgraduate,No,Yes,78.0
+S0650,Female,22,87.9,76.1,70.1,14.3,5,7.3,4.1,Graduate,No,No,81.6
+S0651,Male,18,79.5,55.7,58.3,16.0,6,6.2,3.7,High School,No,Yes,75.7
+S0652,Female,17,71.6,55.0,30.0,5.7,2,5.5,4.2,,Yes,Yes,55.8
+S0653,Male,17,88.7,64.8,66.8,15.2,5,8.4,4.5,High School,No,No,83.0
+S0654,Female,20,89.9,46.6,47.5,8.3,7,9.0,1.4,High School,No,Yes,74.7
+S0655,Female,17,105.0,49.7,66.1,13.6,4,7.2,5.3,Postgraduate,No,No,67.7
+S0656,Female,18,80.6,52.0,54.5,10.9,6,5.5,3.7,Graduate,No,Yes,66.6
+S0657,Female,22,66.2,54.1,49.2,14.5,1,6.0,6.8,High School,Yes,Yes,61.8
+S0658,Female,22,69.4,41.6,48.4,12.6,4,7.3,5.6,Postgraduate,No,No,62.2
+S0659,Male,22,72.5,37.8,19.1,0.0,3,8.1,6.6,High School,Yes,No,43.9
+S0660,Male,18,80.8,60.8,51.7,12.9,8,5.6,2.7,High School,Yes,Yes,77.3
+S0661,Male,20,71.6,74.1,76.1,15.2,3,6.7,3.8,High School,No,Yes,83.2
+S0662,Female,20,75.0,65.3,63.2,14.2,6,7.0,2.3,Graduate,Yes,No,80.7
+S0663,Male,18,69.8,27.9,49.2,11.5,6,7.7,3.2,Graduate,Yes,No,57.9
+S0664,Male,20,83.4,72.3,59.2,20.2,5,,6.8,High School,Yes,No,80.1
+S0665,Female,20,58.5,52.4,55.4,13.6,4,5.2,7.2,,No,Yes,61.7
+S0666,Female,19,72.1,64.2,60.7,14.2,5,7.4,2.4,Postgraduate,No,No,85.5
+S0667,Female,21,64.4,62.1,74.0,17.2,3,7.9,3.7,Postgraduate,No,Yes,78.6
+S0668,Female,21,82.9,56.7,65.4,13.8,5,6.7,4.4,High School,Yes,Yes,76.4
+S0669,Female,20,59.2,51.4,55.9,7.5,6,7.2,5.6,High School,No,No,63.9
+S0670,Male,21,77.0,44.8,51.9,0.0,5,6.3,1.3,Postgraduate,No,No,59.0
+S0671,Female,21,,69.4,59.8,9.6,5,6.0,1.6,High School,No,No,77.7
+S0672,Female,20,94.0,60.6,,15.8,6,7.8,5.4,Graduate,Yes,No,80.0
+S0673,Female,18,64.8,67.2,53.8,10.2,5,7.2,1.0,Graduate,Yes,Yes,73.2
+S0674,Male,21,83.4,71.3,61.6,16.0,7,7.3,3.7,High School,No,No,82.9
+S0675,Female,21,69.4,65.1,69.6,12.7,4,8.3,4.8,Graduate,No,No,68.7
+S0676,Female,22,69.4,43.8,45.5,18.4,8,5.7,5.2,Postgraduate,No,No,72.7
+S0677,Female,17,76.9,67.8,,10.5,7,6.2,4.2,Graduate,No,No,79.6
+S0678,Male,19,90.9,54.3,60.0,14.3,7,7.0,3.8,Graduate,No,No,77.1
+S0679,Female,22,83.2,67.4,75.2,14.5,4,6.2,6.0,Postgraduate,No,Yes,74.8
+S0680,Female,20,74.4,53.8,63.6,19.5,4,7.6,5.0,Graduate,Yes,Yes,72.9
+S0681,Female,22,82.4,35.4,38.4,3.5,4,6.6,3.3,Graduate,No,No,58.2
+S0682,Male,17,57.1,76.4,70.8,9.7,4,5.8,4.6,Postgraduate,No,Yes,92.6
+S0683,Female,17,72.5,50.7,53.8,16.2,2,,5.2,Graduate,Yes,No,69.1
+S0684,Female,21,70.9,77.3,71.6,19.7,6,7.0,7.6,,No,No,85.2
+S0685,Male,19,78.1,59.5,64.7,13.2,7,7.7,5.9,High School,Yes,Yes,78.4
+S0686,Female,20,73.7,50.9,53.3,10.5,6,7.2,6.7,High School,No,Yes,63.8
+S0687,Male,19,79.6,60.3,60.7,15.8,4,7.3,3.4,Graduate,Yes,No,77.9
+S0688,Female,19,79.4,47.0,56.5,16.3,4,7.1,3.6,Graduate,No,No,64.7
+S0689,Male,22,78.2,55.1,68.2,10.2,5,6.6,4.1,Graduate,Yes,No,66.5
+S0690,Female,17,84.1,46.7,50.8,13.7,5,6.1,4.2,High School,No,No,61.0
+S0691,Female,21,83.8,58.6,61.3,17.9,7,7.1,2.7,Graduate,No,Yes,85.3
+S0692,Female,22,77.2,76.6,64.9,21.5,7,6.5,6.8,Postgraduate,Yes,No,84.0
+S0693,Female,20,81.8,63.5,65.3,15.7,7,8.5,6.1,High School,No,Yes,80.8
+S0694,Female,19,86.4,40.9,,12.2,4,8.1,3.9,Graduate,No,No,64.8
+S0695,Male,17,72.0,66.1,69.8,11.7,5,7.4,5.7,Graduate,No,No,70.4
+S0696,Male,21,78.5,59.7,63.5,14.8,5,7.2,4.9,Graduate,Yes,No,71.2
+S0697,Female,19,87.2,50.5,,11.4,5,6.7,5.8,High School,No,Yes,68.3
+S0698,Female,17,71.2,66.2,70.2,12.9,6,5.5,2.1,Graduate,Yes,Yes,76.0
+S0699,Male,19,92.7,49.9,58.0,6.7,7,6.6,4.2,Postgraduate,Yes,Yes,70.2
+S0700,Male,22,68.9,50.7,69.2,18.5,8,6.9,4.4,Graduate,No,No,71.3
+S0701,Female,18,71.8,71.6,73.3,6.3,5,7.0,5.6,Postgraduate,No,No,76.6
+S0702,Female,18,70.0,54.6,,,4,7.3,3.4,Postgraduate,No,Yes,72.1
+S0703,Male,21,100.0,56.6,48.0,12.5,6,7.7,0.5,High School,Yes,No,70.9
+S0704,Male,18,79.7,62.5,76.6,22.0,3,6.1,2.6,Graduate,No,No,80.3
+S0705,Male,22,73.1,67.9,68.5,9.9,7,6.1,4.4,Graduate,No,Yes,85.5
+S0706,Female,22,73.5,47.9,62.6,8.7,4,8.3,4.6,Postgraduate,No,Yes,65.1
+S0707,Male,22,75.0,37.3,55.0,9.2,6,7.6,7.5,High School,No,No,59.4
+S0708,Female,22,77.6,57.8,,20.3,7,6.4,5.5,,Yes,No,81.1
+S0709,Male,18,72.2,59.6,52.7,0.0,2,6.7,4.6,Postgraduate,Yes,No,63.9
+S0710,Male,18,44.6,61.1,57.4,7.0,2,6.7,4.4,High School,No,No,61.7
+S0711,Female,19,82.3,67.9,66.9,25.7,9,6.8,6.5,Graduate,No,No,84.4
+S0712,Female,19,80.7,75.1,,15.0,6,7.3,3.4,High School,Yes,No,84.1
+S0713,Female,22,85.7,59.7,49.9,6.5,4,9.0,4.2,Postgraduate,Yes,No,68.8
+S0714,Female,21,92.0,53.9,58.1,11.8,5,7.0,2.5,Postgraduate,Yes,No,72.8
+S0715,Female,20,74.2,55.5,58.3,12.3,7,7.5,7.1,High School,No,No,63.8
+S0716,Female,22,86.6,64.9,70.7,16.2,7,5.1,5.2,Graduate,Yes,No,83.7
+S0717,Female,20,73.3,57.0,66.8,21.2,4,6.3,3.2,High School,No,No,79.4
+S0718,Male,19,86.2,59.0,68.9,13.9,8,,4.3,Graduate,No,No,75.2
+S0719,Male,19,71.2,57.7,34.2,9.3,6,7.2,5.4,Graduate,Yes,No,61.7
+S0720,Female,20,69.7,42.4,55.8,15.9,5,4.0,4.0,Postgraduate,No,No,63.5
+S0721,Male,17,,51.4,61.4,8.5,3,7.5,3.5,High School,No,No,61.3
+S0722,Female,21,90.0,48.5,63.5,6.8,7,8.7,3.3,High School,No,No,63.7
+S0723,Female,20,75.8,59.5,56.8,3.2,5,4.8,5.1,Graduate,Yes,No,61.3
+S0724,Male,21,89.3,28.9,48.5,4.2,2,8.3,3.9,Graduate,Yes,No,51.9
+S0725,Female,20,70.6,48.3,50.4,7.5,4,4.0,3.7,Graduate,Yes,No,54.6
+S0726,Male,21,87.8,45.8,46.3,6.1,10,7.7,2.1,High School,No,No,68.5
+S0727,Female,22,72.9,69.1,70.8,13.6,5,6.8,4.6,High School,No,No,80.9
+S0728,Male,20,78.3,50.5,48.8,6.0,3,4.5,4.2,Postgraduate,Yes,Yes,65.9
+S0729,Male,19,76.0,64.8,44.4,0.0,2,7.2,3.9,High School,Yes,No,60.1
+S0730,Female,17,81.8,59.1,50.1,6.8,8,8.0,4.9,High School,No,No,62.7
+S0731,Female,21,78.3,50.1,43.3,9.6,6,,5.8,Postgraduate,Yes,No,65.9
+S0732,Male,22,69.2,56.6,59.3,9.0,7,7.4,5.8,High School,Yes,No,68.2
+S0733,Female,21,88.3,60.7,68.1,19.6,7,6.4,5.5,Graduate,No,No,81.3
+S0734,Female,22,93.1,63.4,55.9,8.9,7,4.9,4.1,High School,Yes,No,79.6
+S0735,Male,22,75.8,46.8,52.6,16.4,4,7.5,3.5,Postgraduate,Yes,Yes,68.2
+S0736,Female,21,63.6,47.8,57.3,11.9,5,8.5,2.6,Graduate,No,No,56.9
+S0737,Female,20,83.8,61.8,67.0,11.8,6,7.9,3.4,Postgraduate,Yes,Yes,76.9
+S0738,Male,17,73.6,66.3,50.2,7.8,7,4.8,4.5,High School,No,No,70.6
+S0739,Female,17,78.4,32.5,34.3,11.7,6,5.3,3.1,Graduate,No,No,56.6
+S0740,Female,18,81.6,68.3,68.4,8.2,4,6.0,4.7,Graduate,No,No,69.0
+S0741,Female,19,76.3,56.3,47.8,12.9,5,5.2,2.8,High School,Yes,Yes,65.8
+S0742,Female,21,78.4,35.1,49.5,10.8,2,6.8,1.5,High School,No,Yes,60.4
+S0743,Female,19,74.0,25.0,49.0,7.3,1,7.2,6.0,High School,Yes,No,43.0
+S0744,Male,17,94.4,45.1,69.7,17.0,8,5.4,3.6,Postgraduate,No,No,78.1
+S0745,Female,18,80.9,58.9,67.4,14.1,5,7.6,3.0,Graduate,Yes,Yes,77.7
+S0746,Male,22,68.3,54.0,60.1,9.8,4,7.4,2.5,Graduate,No,No,65.7
+S0747,Female,22,,64.7,81.3,12.7,6,6.3,5.3,Graduate,Yes,Yes,77.0
+S0748,Male,19,76.9,50.5,35.7,11.6,7,6.6,7.0,Graduate,Yes,No,62.5
+S0749,Male,21,67.1,40.5,41.2,7.7,5,4.9,3.8,Graduate,No,No,55.6
+S0750,Male,21,64.8,52.8,63.2,12.4,8,6.5,4.1,Graduate,Yes,Yes,74.3
+S0751,Female,22,,54.3,51.0,8.9,6,6.8,6.4,Graduate,Yes,Yes,68.8
+S0752,Male,22,85.8,54.8,62.3,,5,7.0,1.2,High School,No,No,70.8
+S0753,Male,20,68.2,40.2,40.7,3.9,4,7.2,8.0,Postgraduate,No,No,47.1
+S0754,Female,19,75.8,65.1,62.1,10.2,3,7.0,8.9,Graduate,Yes,No,64.4
+S0755,Female,20,85.1,53.0,56.8,14.8,7,6.5,0.5,High School,No,No,74.0
+S0756,Male,18,82.5,44.0,43.5,8.5,1,7.1,4.3,Graduate,No,No,64.4
+S0757,Female,19,90.1,63.6,70.2,24.6,6,7.8,3.2,High School,No,Yes,84.2
+S0758,Male,20,57.1,73.3,73.9,16.4,5,6.7,4.0,Postgraduate,No,Yes,81.7
+S0759,Male,20,79.5,62.1,61.5,18.5,5,7.1,3.7,Postgraduate,No,No,78.3
+S0760,Female,20,83.1,53.3,67.9,16.0,5,6.6,6.0,Postgraduate,No,Yes,74.8
+S0761,Male,19,78.5,76.5,83.5,21.3,9,6.2,4.3,High School,No,No,94.7
+S0762,Female,19,78.7,76.6,74.0,8.1,7,7.3,2.9,,No,No,80.8
+S0763,Female,17,80.6,47.3,32.0,,3,6.2,4.2,High School,Yes,Yes,54.1
+S0764,Female,20,77.2,68.3,48.8,9.8,4,7.2,5.4,High School,Yes,Yes,74.7
+S0765,Male,20,95.1,71.2,68.9,14.8,4,6.8,2.4,High School,Yes,Yes,91.5
+S0766,Female,22,91.7,51.1,79.1,12.8,7,6.5,1.5,High School,No,No,83.3
+S0767,Female,20,74.2,58.7,70.8,13.4,5,6.5,8.1,Postgraduate,Yes,No,70.4
+S0768,Male,19,80.3,49.5,56.4,18.6,3,6.3,3.3,High School,No,No,68.9
+S0769,Male,17,53.7,56.7,63.5,13.9,4,5.2,4.3,High School,No,No,66.6
+S0770,Male,18,77.7,54.1,66.6,16.0,6,7.2,3.8,Postgraduate,No,No,75.8
+S0771,Female,19,63.3,47.9,37.7,7.3,6,7.0,5.5,Graduate,Yes,No,54.5
+S0772,Female,19,74.9,43.3,56.3,6.5,4,7.6,7.7,Graduate,No,No,60.9
+S0773,Male,19,81.9,61.9,67.8,20.1,5,6.3,5.5,Graduate,No,No,78.4
+S0774,Female,19,87.5,63.4,61.6,12.5,9,8.7,1.8,Postgraduate,Yes,No,82.5
+S0775,Female,21,92.1,52.6,53.0,8.9,5,6.4,2.0,Graduate,No,No,64.9
+S0776,Female,17,77.5,33.4,51.4,8.9,6,5.9,3.8,Graduate,Yes,No,58.9
+S0777,Male,18,98.0,45.5,42.8,8.8,5,5.8,4.0,Graduate,No,No,56.4
+S0778,Male,17,82.1,36.7,30.0,8.5,6,5.1,1.4,Graduate,No,Yes,58.3
+S0779,Male,18,62.5,53.3,52.5,5.6,2,8.3,6.0,High School,Yes,No,56.0
+S0780,Female,21,72.2,55.0,33.4,4.5,3,8.2,2.5,Graduate,Yes,No,60.6
+S0781,Female,17,71.9,58.8,56.0,11.0,3,7.4,7.2,High School,Yes,Yes,74.0
+S0782,Female,19,79.2,45.4,58.5,9.0,4,5.9,7.8,Graduate,Yes,No,61.7
+S0783,Male,17,72.4,65.3,73.1,17.5,7,8.6,4.1,High School,No,No,86.5
+S0784,Male,22,75.4,53.3,66.1,13.5,4,6.4,5.3,High School,Yes,Yes,73.6
+S0785,Male,21,79.6,45.8,58.5,13.3,6,6.5,2.3,High School,Yes,No,72.9
+S0786,Female,18,71.7,61.4,76.4,8.3,7,8.2,5.6,Postgraduate,No,No,81.5
+S0787,Male,18,86.3,65.4,57.7,,5,7.5,3.6,High School,No,No,72.0
+S0788,Female,17,86.8,69.2,70.1,13.8,7,9.0,2.5,Graduate,No,Yes,84.5
+S0789,Female,19,90.8,53.9,56.7,15.6,7,7.0,4.0,Postgraduate,No,No,77.6
+S0790,Male,21,76.0,69.5,72.4,11.5,5,6.4,3.7,High School,Yes,No,77.3
+S0791,Male,20,91.9,57.0,63.2,17.4,7,6.2,3.9,Graduate,No,Yes,81.7
+S0792,Male,22,64.3,64.2,76.1,12.0,8,5.0,6.2,High School,Yes,No,73.4
+S0793,Female,19,68.8,55.3,57.2,16.0,4,6.5,3.1,High School,No,Yes,70.6
+S0794,Female,18,63.3,52.1,64.5,9.6,3,7.9,7.6,Graduate,No,Yes,70.8
+S0795,Male,19,77.1,25.0,36.4,2.9,3,7.4,2.1,Postgraduate,No,No,45.4
+S0796,Male,18,86.8,55.0,58.3,13.3,7,6.8,7.4,High School,No,No,72.3
+S0797,Female,22,76.2,61.6,68.9,15.6,7,5.8,2.7,Graduate,No,No,80.5
+S0798,Male,18,75.2,55.4,62.4,14.9,4,7.0,4.5,High School,Yes,No,64.6
+S0799,Male,19,78.1,78.4,75.1,14.1,2,7.8,3.6,Graduate,No,No,78.8
+S0800,Male,20,83.4,42.5,47.0,10.3,4,7.2,3.9,Graduate,No,Yes,62.3
+S0801,Male,17,70.9,46.8,43.1,8.0,5,7.0,5.9,Graduate,No,Yes,63.3
+S0802,Male,19,71.9,49.8,54.5,14.8,5,6.0,7.2,Graduate,No,Yes,65.9
+S0803,Female,19,64.9,52.9,44.8,14.1,5,7.7,6.6,High School,Yes,No,62.6
+S0804,Female,18,72.8,65.5,67.0,9.2,4,4.0,3.8,Graduate,No,Yes,68.8
+S0805,Female,17,90.8,78.8,66.0,17.5,8,7.2,4.8,Graduate,Yes,Yes,98.6
+S0806,Female,17,78.8,44.9,45.5,7.6,5,9.0,3.1,Graduate,Yes,Yes,66.1
+S0807,Female,17,72.3,46.1,54.6,9.1,6,5.3,2.7,High School,Yes,No,65.5
+S0808,Male,19,94.8,52.5,70.7,20.2,7,6.6,2.4,Graduate,No,No,79.4
+S0809,Male,17,75.6,75.7,58.8,16.3,6,6.8,3.7,Graduate,Yes,No,78.5
+S0810,Female,22,89.9,67.5,61.6,10.2,6,6.3,4.9,High School,Yes,No,81.8
+S0811,Male,18,94.9,57.3,63.6,13.4,4,7.8,1.1,High School,Yes,No,70.0
+S0812,Female,20,79.2,42.4,51.5,12.8,6,7.3,4.4,Graduate,No,Yes,68.7
+S0813,Female,21,57.3,30.6,42.6,0.0,4,7.0,7.2,Graduate,No,No,39.5
+S0814,Male,19,95.1,54.3,45.8,7.5,7,7.6,6.5,High School,Yes,Yes,67.6
+S0815,Female,22,82.7,62.8,44.9,11.7,6,6.8,3.4,Postgraduate,Yes,No,70.1
+S0816,Female,17,77.2,32.5,49.6,10.2,3,9.0,2.0,Graduate,No,No,56.0
+S0817,Male,18,86.6,54.7,54.0,13.2,4,7.0,5.3,Graduate,Yes,No,68.6
+S0818,Male,18,90.9,80.4,62.8,17.6,6,7.0,0.5,Graduate,No,Yes,83.4
+S0819,Female,17,87.5,53.0,53.3,10.4,6,5.1,6.5,Graduate,Yes,No,64.7
+S0820,Female,18,70.6,68.1,69.0,6.7,4,6.3,4.1,Graduate,No,No,71.4
+S0821,Male,18,78.5,65.8,54.7,13.6,4,7.9,7.8,Postgraduate,Yes,No,66.2
+S0822,Female,21,70.1,43.4,67.9,10.4,3,5.5,1.4,Graduate,No,No,70.4
+S0823,Male,18,82.3,53.0,48.7,11.2,2,4.6,6.2,Graduate,Yes,No,58.9
+S0824,Female,22,77.7,54.1,56.0,10.5,1,6.8,4.3,Graduate,No,Yes,66.3
+S0825,Female,21,85.9,57.7,60.2,23.2,6,8.2,3.9,Graduate,No,No,78.1
+S0826,Male,22,75.0,35.1,35.4,0.8,8,6.8,2.0,High School,No,No,54.2
+S0827,Female,17,74.2,71.6,63.4,10.1,8,6.5,5.6,Graduate,No,Yes,84.1
+S0828,Female,22,69.3,46.2,40.5,12.0,3,4.9,5.7,Graduate,Yes,No,65.4
+S0829,Female,20,80.6,65.0,81.4,8.1,5,7.3,7.7,Postgraduate,No,No,77.0
+S0830,Male,22,91.7,56.7,58.7,16.5,4,7.5,6.3,Graduate,No,No,76.0
+S0831,Male,19,76.0,60.8,60.5,16.1,3,5.0,3.4,Graduate,Yes,No,77.9
+S0832,Male,22,105.0,62.9,69.1,11.8,3,7.9,2.7,Postgraduate,No,No,77.5
+S0833,Male,20,84.1,49.1,67.1,10.6,5,7.6,2.0,Graduate,No,No,77.2
+S0834,Male,17,75.5,62.7,69.9,11.4,5,7.9,7.2,High School,No,No,74.6
+S0835,Female,19,65.8,34.0,35.5,11.5,5,7.4,3.1,High School,No,Yes,58.8
+S0836,Female,17,63.8,61.4,62.1,11.6,6,7.5,7.2,High School,No,No,69.9
+S0837,Female,22,70.0,28.9,26.9,11.1,4,7.3,5.4,High School,No,No,42.4
+S0838,Male,18,59.0,55.8,66.1,13.3,5,7.7,5.1,Graduate,Yes,Yes,73.3
+S0839,Male,18,93.0,70.2,56.3,15.8,4,5.0,3.9,Graduate,Yes,No,71.8
+S0840,Female,20,78.0,57.7,46.2,5.8,2,5.3,5.7,Graduate,Yes,Yes,56.8
+S0841,Male,19,76.0,37.5,42.3,6.7,2,6.1,4.5,High School,No,No,52.9
+S0842,Female,17,55.8,35.4,41.3,3.3,4,6.7,3.8,Graduate,Yes,No,45.8
+S0843,Female,21,62.4,53.8,58.8,16.3,4,7.2,5.8,High School,Yes,No,66.7
+S0844,Male,22,79.0,60.3,73.6,13.3,2,7.1,4.2,Postgraduate,Yes,No,74.3
+S0845,Male,21,98.5,37.2,55.8,14.5,6,7.9,3.1,High School,Yes,No,69.1
+S0846,Male,20,,49.7,52.3,,2,7.9,5.6,Graduate,No,No,54.4
+S0847,Male,19,89.8,69.4,64.2,20.9,9,5.9,4.4,High School,Yes,No,88.3
+S0848,Male,20,71.9,50.8,65.5,9.0,4,7.0,5.4,Graduate,Yes,No,64.8
+S0849,Female,20,80.0,63.6,56.4,12.8,6,6.0,3.7,Graduate,No,Yes,78.5
+S0850,Female,17,93.1,63.7,80.2,16.3,8,6.6,2.3,Graduate,Yes,Yes,85.2
+S0851,Female,17,70.1,46.1,63.6,7.1,3,7.1,7.6,High School,Yes,No,57.6
+S0852,Female,18,68.2,33.0,46.5,9.3,5,4.0,7.3,Postgraduate,Yes,Yes,58.7
+S0853,Female,19,89.8,59.4,68.8,12.9,7,9.0,6.1,Graduate,No,No,80.4
+S0854,Male,17,85.1,60.8,50.1,26.3,7,7.4,3.8,Graduate,Yes,No,78.4
+S0855,Male,17,89.3,52.1,55.6,13.5,6,6.2,4.0,Postgraduate,No,No,69.7
+S0856,Female,22,72.9,70.3,82.5,20.0,4,8.7,7.0,Postgraduate,No,Yes,82.3
+S0857,Male,19,94.0,78.6,83.7,60.0,7,,3.9,High School,No,No,88.7
+S0858,Male,20,82.6,58.4,51.2,13.8,5,6.9,3.4,High School,Yes,No,66.3
+S0859,Female,20,76.9,58.1,51.7,7.1,5,6.3,7.9,High School,No,No,61.7
+S0860,Female,21,81.7,46.4,37.5,17.3,7,8.5,4.4,High School,No,Yes,72.4
+S0861,Female,21,67.6,52.2,51.5,4.5,5,6.7,7.7,Graduate,Yes,No,55.4
+S0862,Female,18,84.0,64.3,55.3,,7,6.9,2.0,Postgraduate,No,Yes,84.9
+S0863,Male,22,73.8,71.5,76.4,13.0,6,8.0,5.4,Postgraduate,Yes,No,80.1
+S0864,Female,19,78.4,39.1,45.9,0.0,5,7.4,8.2,Graduate,Yes,No,54.6
+S0865,Female,22,75.7,52.6,50.5,10.3,7,6.7,4.6,Graduate,Yes,No,64.9
+S0866,Female,19,66.6,71.9,74.0,15.3,5,7.9,4.0,Postgraduate,Yes,No,79.1
+S0867,Female,17,64.8,54.8,,10.8,5,9.0,2.4,Postgraduate,Yes,No,66.7
+S0868,Female,21,62.2,48.4,59.1,15.6,6,7.1,6.4,High School,No,Yes,64.5
+S0869,Male,17,83.5,80.8,58.0,7.7,4,6.9,3.1,Graduate,No,No,79.7
+S0870,Male,21,65.5,38.6,46.7,5.5,2,7.0,4.3,Postgraduate,Yes,No,52.9
+S0871,Male,17,83.1,55.9,44.3,11.6,6,8.1,2.3,High School,No,No,70.4
+S0872,Male,18,76.8,61.0,46.1,12.2,5,6.2,7.3,Graduate,No,Yes,73.3
+S0873,Male,20,74.9,58.2,56.3,10.3,3,6.5,6.6,Postgraduate,Yes,Yes,73.1
+S0874,Male,22,84.8,61.0,65.0,18.1,7,5.3,4.4,Postgraduate,Yes,Yes,76.2
+S0875,Female,19,80.1,50.7,52.8,7.7,7,5.6,2.4,Postgraduate,Yes,No,70.2
+S0876,Female,17,51.8,56.0,54.2,13.6,2,6.3,7.3,Graduate,Yes,No,61.1
+S0877,Female,18,76.2,45.1,67.2,12.3,7,6.7,3.8,High School,Yes,Yes,70.6
+S0878,Female,22,81.0,72.9,60.6,4.2,1,8.6,2.5,High School,Yes,No,72.5
+S0879,Female,21,93.6,48.0,48.7,5.4,4,7.3,1.3,Graduate,No,Yes,62.2
+S0880,Female,17,94.7,63.6,63.6,12.1,9,5.9,3.3,Graduate,Yes,No,85.2
+S0881,Male,19,72.6,63.2,79.7,21.9,5,6.1,1.9,Graduate,Yes,No,85.4
+S0882,Female,18,77.4,56.0,65.3,14.9,6,8.2,3.4,Graduate,Yes,No,72.3
+S0883,Male,18,59.4,43.4,45.8,3.4,5,7.9,5.8,Graduate,No,No,52.1
+S0884,Male,22,87.9,28.0,36.3,0.0,2,6.8,3.8,Graduate,Yes,No,40.8
+S0885,Female,20,88.2,58.9,48.5,15.7,6,6.4,5.1,High School,No,No,70.4
+S0886,Female,18,82.6,52.0,40.8,11.5,5,7.9,3.2,High School,Yes,Yes,67.3
+S0887,Male,20,82.0,75.6,73.7,17.7,9,5.8,4.6,High School,Yes,No,81.9
+S0888,Male,19,85.5,39.4,42.7,7.6,3,7.2,8.0,High School,No,No,56.0
+S0889,Male,17,90.5,52.4,62.2,13.8,5,9.0,3.9,Postgraduate,Yes,No,78.8
+S0890,Male,19,89.7,51.3,59.6,16.2,5,7.0,5.2,,Yes,Yes,74.5
+S0891,Male,18,84.3,70.6,68.3,9.8,3,6.0,1.7,High School,Yes,Yes,78.7
+S0892,Female,18,71.6,45.3,39.8,9.9,6,7.2,7.2,Graduate,No,No,59.6
+S0893,Female,22,86.1,63.3,61.9,12.1,5,6.3,3.6,Graduate,No,No,74.8
+S0894,Female,21,84.8,70.4,57.7,14.7,5,5.4,6.4,High School,No,No,70.5
+S0895,Female,17,76.8,55.3,60.4,11.9,4,7.5,4.3,High School,No,No,66.5
+S0896,Female,22,76.0,46.7,42.5,16.9,5,7.9,5.6,High School,Yes,No,63.1
+S0897,Female,20,86.4,39.7,49.3,9.7,4,6.5,5.7,Graduate,No,No,60.0
+S0898,Male,22,91.4,59.8,41.5,5.4,3,6.4,3.7,High School,Yes,No,63.8
+S0899,Male,21,73.5,53.0,63.0,21.9,6,5.8,6.5,High School,No,Yes,76.1
+S0900,Female,19,76.1,58.3,63.2,,4,6.7,3.1,High School,Yes,Yes,67.0
+S0901,Male,20,78.9,55.4,56.5,9.2,4,6.2,5.9,Graduate,Yes,Yes,70.3
+S0902,Male,20,83.3,60.8,47.0,11.7,6,5.8,3.8,High School,No,No,69.9
+S0903,Male,21,73.1,62.5,56.3,12.3,5,8.7,5.1,Postgraduate,Yes,No,81.3
+S0904,Female,18,95.3,44.8,37.7,10.1,5,7.3,3.7,High School,No,No,61.3
+S0905,Male,18,82.0,46.2,38.8,11.9,5,7.4,4.6,Graduate,Yes,No,63.4
+S0906,Female,18,,64.7,63.3,11.8,9,7.7,2.6,Graduate,No,No,90.6
+S0907,Male,18,94.0,51.0,60.4,12.9,9,7.6,4.9,Graduate,No,No,75.2
+S0908,Male,17,69.5,25.0,32.5,0.2,2,6.4,4.6,High School,Yes,No,40.7
+S0909,Male,17,82.2,73.5,81.7,21.4,5,7.1,3.5,Graduate,No,No,84.7
+S0910,Male,22,66.8,44.9,50.8,11.3,3,6.5,4.4,Postgraduate,No,No,65.9
+S0911,Female,17,77.7,65.0,63.5,14.9,7,,4.7,High School,No,No,73.0
+S0912,Male,22,63.3,65.4,47.5,5.1,3,7.1,3.4,High School,Yes,No,65.3
+S0913,Male,17,84.3,54.8,51.3,9.6,6,6.4,4.3,Postgraduate,No,No,67.1
+S0914,Female,21,82.5,64.6,48.6,8.6,8,5.5,2.7,Graduate,No,No,72.4
+S0915,Female,18,74.5,66.0,63.9,19.3,6,6.9,8.7,High School,No,No,69.9
+S0916,Male,20,74.3,71.5,64.1,9.1,6,6.6,6.4,High School,Yes,No,77.9
+S0917,Female,18,86.2,49.1,56.9,15.8,7,4.9,5.0,Graduate,Yes,No,69.1
+S0918,Female,19,64.7,53.7,77.8,8.7,3,7.3,6.6,Graduate,No,No,61.7
+S0919,Male,19,82.8,62.1,48.1,9.7,7,7.8,0.9,Graduate,Yes,No,79.1
+S0920,Female,20,88.1,53.7,54.3,10.8,4,9.0,0.5,Postgraduate,No,No,71.5
+S0921,Female,19,65.5,76.1,63.9,18.4,7,6.4,3.8,Graduate,No,Yes,86.6
+S0922,Female,20,83.2,42.8,,2.6,3,6.3,2.0,High School,Yes,No,58.2
+S0923,Male,21,61.0,73.2,57.9,5.4,3,5.7,4.1,,Yes,No,69.6
+S0924,Male,19,73.0,70.6,62.9,2.3,2,7.0,4.9,High School,No,No,59.0
+S0925,Male,19,64.0,54.7,48.0,6.6,3,7.0,6.2,High School,Yes,Yes,63.6
+S0926,Female,17,91.6,59.0,53.9,7.9,5,6.0,2.5,High School,No,No,69.9
+S0927,Female,19,63.9,62.0,49.6,3.9,1,6.6,5.2,,No,No,57.5
+S0928,Male,17,62.0,40.3,34.3,8.3,4,4.8,4.5,Graduate,No,No,51.6
+S0929,Male,18,74.8,32.5,29.6,1.9,3,7.7,5.1,High School,Yes,Yes,43.4
+S0930,Female,22,73.5,65.7,55.0,6.9,6,6.0,3.6,Graduate,No,No,71.1
+S0931,Female,17,105.0,66.0,69.9,18.0,6,6.8,7.0,Graduate,No,No,71.2
+S0932,Female,19,84.0,56.5,64.6,14.0,4,5.4,4.3,Graduate,Yes,No,70.5
+S0933,Male,22,57.6,58.1,58.0,12.9,4,6.2,7.7,Graduate,No,No,64.4
+S0934,Female,22,68.4,25.7,34.1,7.0,4,6.5,3.1,Graduate,No,Yes,55.6
+S0935,Male,17,68.7,47.2,31.5,4.3,6,6.8,5.8,Graduate,No,No,51.6
+S0936,Female,17,83.3,43.0,49.3,6.3,3,7.3,4.4,High School,No,Yes,66.4
+S0937,Male,19,90.5,66.9,58.0,11.8,4,8.2,3.9,Graduate,Yes,No,79.1
+S0938,Male,20,88.8,72.3,77.1,,4,7.5,5.6,Graduate,Yes,No,80.8
+S0939,Male,22,79.3,67.9,79.4,16.5,3,7.8,4.0,High School,Yes,No,76.3
+S0940,Female,18,61.7,64.5,64.1,15.2,5,8.2,0.5,High School,Yes,Yes,75.5
+S0941,Female,17,84.3,36.8,35.4,8.3,5,,0.5,High School,No,Yes,63.5
+S0942,Male,18,89.3,63.6,62.0,12.1,8,6.8,6.8,Graduate,Yes,Yes,76.0
+S0943,Female,22,86.5,62.3,62.5,10.4,7,7.8,6.7,Graduate,No,Yes,80.8
+S0944,Male,17,78.7,69.7,61.8,11.0,9,7.9,7.9,High School,Yes,No,73.4
+S0945,Male,19,71.7,90.5,82.4,22.2,6,7.4,4.5,Postgraduate,Yes,Yes,94.6
+S0946,Male,17,72.4,29.6,39.0,3.2,4,5.3,2.2,Postgraduate,Yes,No,51.5
+S0947,Female,17,96.0,51.6,58.2,10.8,4,6.0,3.7,High School,Yes,Yes,69.1
+S0948,Male,22,68.0,54.9,60.5,18.1,6,6.5,4.5,Postgraduate,No,Yes,76.0
+S0949,Female,17,66.9,51.6,34.8,4.7,4,7.6,2.7,High School,No,No,61.3
+S0950,Male,18,82.5,53.9,57.1,8.8,6,6.8,7.5,Postgraduate,No,Yes,69.7
+S0951,Male,22,69.3,51.8,46.7,9.4,3,7.9,8.5,Postgraduate,Yes,No,59.1
+S0952,Male,20,66.4,67.2,64.6,10.9,5,8.1,5.4,High School,No,No,73.2
+S0953,Female,17,88.9,36.9,40.5,4.0,5,8.0,4.5,Graduate,Yes,No,50.4
+S0954,Male,19,86.0,48.5,41.6,15.0,6,8.0,2.2,Postgraduate,No,No,71.6
+S0955,Female,22,73.4,49.1,58.0,15.3,4,5.8,7.3,Postgraduate,No,Yes,68.3
+S0956,Female,19,68.9,55.6,64.2,14.5,7,7.3,4.6,Postgraduate,Yes,No,76.6
+S0957,Male,20,95.5,39.1,49.3,7.6,9,6.2,4.0,Graduate,Yes,No,67.1
+S0958,Female,20,77.4,56.9,59.7,12.4,3,5.2,5.4,High School,Yes,No,65.6
+S0959,Female,20,90.1,50.7,34.6,7.5,6,6.5,3.4,Postgraduate,Yes,Yes,70.5
+S0960,Male,18,85.4,46.7,61.2,10.3,1,8.1,4.8,Graduate,No,No,62.7
+S0961,Male,22,80.5,77.4,83.6,22.8,7,7.3,1.9,Graduate,No,No,94.8
+S0962,Male,22,71.9,56.8,49.1,12.5,2,8.8,6.5,Graduate,No,Yes,65.9
+S0963,Female,17,89.1,62.8,49.3,6.1,4,7.0,4.3,Graduate,Yes,No,69.4
+S0964,Male,21,89.7,55.8,60.4,12.9,4,9.0,6.6,High School,No,Yes,71.8
+S0965,Female,21,59.1,50.0,53.2,5.2,3,7.0,4.1,Graduate,Yes,No,64.2
+S0966,Female,21,81.1,44.8,41.7,6.0,6,6.8,4.3,High School,No,Yes,69.5
+S0967,Female,19,77.3,51.7,56.8,6.8,2,5.5,2.3,Graduate,Yes,No,66.2
+S0968,Male,19,66.7,62.6,44.9,9.8,4,7.9,5.9,Postgraduate,Yes,Yes,74.0
+S0969,Female,22,84.1,57.2,54.8,16.7,5,6.3,2.9,Graduate,No,No,68.4
+S0970,Male,17,68.2,65.6,49.5,14.9,8,6.2,3.6,Graduate,Yes,Yes,72.6
+S0971,Male,21,75.1,50.7,50.3,14.6,6,8.1,4.5,High School,No,No,66.9
+S0972,Male,22,68.7,59.9,66.5,6.5,2,8.0,4.7,Postgraduate,No,Yes,70.2
+S0973,Male,21,75.8,47.9,67.1,9.3,4,7.9,1.4,Graduate,Yes,No,68.5
+S0974,Male,19,78.6,67.7,67.5,13.4,8,6.4,4.1,High School,No,Yes,76.5
+S0975,Male,20,66.5,54.5,48.7,8.9,5,6.7,5.9,High School,No,Yes,68.8
+S0976,Male,17,92.6,72.3,63.6,10.6,4,6.7,3.8,High School,No,Yes,87.9
+S0977,Male,22,84.0,46.5,58.6,14.2,5,7.6,4.1,Graduate,No,Yes,76.4
+S0978,Female,19,93.5,39.0,34.2,10.3,5,8.4,4.8,Postgraduate,No,Yes,67.2
+S0979,Male,17,77.5,51.4,51.8,13.1,4,7.2,4.3,Graduate,No,No,67.3
+S0980,Female,21,78.4,49.7,73.8,20.0,3,8.8,2.6,High School,No,No,72.6
+S0981,Female,20,93.8,40.9,40.3,11.1,5,7.7,4.4,Postgraduate,No,Yes,66.2
+S0982,Female,20,73.7,69.7,65.3,17.9,8,6.6,6.3,High School,Yes,No,86.8
+S0983,Female,17,79.7,59.8,62.8,14.8,5,7.6,2.6,Postgraduate,Yes,No,75.4
+S0984,Female,21,,44.4,46.3,4.7,4,8.5,3.8,High School,No,Yes,60.8
+S0985,Female,20,67.4,47.2,42.5,6.5,4,8.8,2.0,Graduate,Yes,No,64.7
+S0986,Female,21,81.3,46.3,48.9,7.8,8,8.0,6.2,Postgraduate,Yes,Yes,71.7
+S0987,Female,21,,70.9,66.6,7.7,5,6.8,4.3,High School,Yes,Yes,75.0
+S0988,Male,18,91.1,48.5,68.9,11.5,7,6.6,3.0,Graduate,No,No,72.8
+S0989,Male,18,87.4,45.5,54.1,15.1,5,7.4,4.7,Postgraduate,Yes,No,66.8
+S0990,Female,22,94.7,72.0,72.6,18.3,6,8.5,2.3,High School,No,No,88.2
+S0991,Male,20,79.8,56.2,71.7,13.5,5,7.2,2.6,High School,No,No,79.0
+S0992,Female,19,72.3,77.2,62.8,9.8,3,7.3,1.9,Graduate,No,No,74.6
+S0993,Male,18,95.0,40.8,,1.6,4,6.9,2.6,High School,Yes,Yes,61.1
+S0994,Male,20,62.3,66.7,66.0,12.4,6,6.5,6.9,High School,No,No,71.7
+S0995,Female,21,66.8,69.0,73.7,12.1,3,6.6,3.2,Graduate,No,Yes,86.9
+S0996,Female,17,82.9,52.2,59.5,12.9,5,6.9,5.3,Graduate,No,Yes,73.0
+S0997,Female,20,98.6,59.4,69.4,22.5,8,8.5,3.0,High School,No,Yes,89.2
+S0998,Male,22,81.1,71.4,60.9,18.2,5,6.6,5.9,,Yes,No,80.0
+S0999,Female,18,90.7,67.2,67.4,15.9,8,6.9,2.7,Postgraduate,No,No,83.7
+S1000,Female,18,58.3,36.7,52.2,7.2,4,5.9,4.6,Graduate,Yes,Yes,50.7
+S0508,Male,19,75.7,38.1,35.6,7.7,2,5.2,2.7,Graduate,No,No,56.5
+S0819,Female,17,87.5,53.0,53.3,10.4,6,5.1,6.5,Graduate,Yes,No,64.7
+S0453,Male,17,69.7,52.6,54.8,13.8,2,6.3,6.4,Postgraduate,No,Yes,64.1
+S0369,Male,22,69.6,84.6,75.9,15.8,8,6.9,5.8,High School,Yes,Yes,95.2
+S0243,Male,22,82.2,50.1,53.4,10.0,4,8.4,3.3,High School,Yes,No,63.2
+S0930,Female,22,73.5,65.7,55.0,6.9,6,6.0,3.6,Graduate,No,No,71.1
+S0263,Male,19,71.9,60.7,57.3,17.3,5,7.5,6.9,High School,No,Yes,77.8
+S0811,Male,18,94.9,57.3,63.6,13.4,4,7.8,1.1,High School,Yes,No,70.0

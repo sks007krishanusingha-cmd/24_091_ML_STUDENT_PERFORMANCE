@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,"CV R2 (5-fold, train)"
+Linear Regression,3.025,3.705,0.851,0.866
+Random Forest,3.588,4.371,0.792,0.806
+Gradient Boosting,3.208,3.981,0.828,0.826

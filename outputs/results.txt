@@ -1,0 +1,149 @@
+======================================================================
+1. LOAD AND INSPECT DATA
+======================================================================
+Raw shape: 1008 rows x 14 columns
+
+Missing values per column:
+attendance_pct          30
+assignment_score        30
+study_hours_per_week    19
+sleep_hours             20
+parent_education        20
+
+Duplicate rows: 8
+Attendance > 100%: 4 rows
+Study hours > 40/week: 3 rows
+
+======================================================================
+2. DATA CLEANING AND PREPROCESSING
+======================================================================
+- Removed duplicates          -> 1000 rows left
+- Impossible values (attendance > 100, study hours > 40) set to missing
+- Missing numbers filled with the median, missing categories with the most common value
+- Missing values left: 0
+- Dropped student_id. Clean data saved -> 1000 rows x 13 columns
+
+Summary statistics (numeric columns):
+                      mean   std   min    max
+age                   19.5   1.7  17.0   22.0
+attendance_pct        78.5   9.1  44.6  100.0
+previous_marks        56.6  11.7  25.0   90.5
+assignment_score      57.5  12.1  19.1   97.9
+study_hours_per_week  11.9   4.9   0.0   29.3
+participation_score    5.1   1.7   1.0   10.0
+sleep_hours            6.8   1.0   4.0    9.0
+screen_time_hours      4.5   1.8   0.5   10.0
+final_marks           70.6  10.0  39.5  100.0
+
+======================================================================
+3. EXPLORATORY DATA ANALYSIS
+======================================================================
+Correlation of each column with final_marks:
+previous_marks          0.76
+assignment_score        0.73
+study_hours_per_week    0.66
+participation_score     0.43
+attendance_pct          0.29
+age                     0.04
+sleep_hours             0.04
+screen_time_hours      -0.20
+
+Average final marks by group:
+gender
+Female    70.6
+Male      70.6
+
+parent_education
+Graduate        70.6
+High School     70.5
+Postgraduate    70.6
+
+extra_curricular
+No     70.7
+Yes    70.4
+
+tutoring
+No     69.6
+Yes    72.8
+
+======================================================================
+4. TRAIN / TEST SPLIT
+======================================================================
+Features used (13): ['age', 'attendance_pct', 'previous_marks', 'assignment_score', 'study_hours_per_week', 'participation_score', 'sleep_hours', 'screen_time_hours', 'gender_Male', 'parent_education_High School', 'parent_education_Postgraduate', 'extra_curricular_Yes', 'tutoring_Yes']
+Training set: 800 students | Testing set: 200 students (80/20 split)
+
+======================================================================
+5-6. TRAIN MODELS AND EVALUATE
+======================================================================
+                     MAE   RMSE     R2  CV R2 (5-fold, train)
+Model                                                        
+Linear Regression  3.025  3.705  0.851                  0.866
+Random Forest      3.588  4.371  0.792                  0.806
+Gradient Boosting  3.208  3.981  0.828                  0.826
+
+Best model on the test set: Linear Regression (R2 = 0.851, MAE = 3.02 marks)
+For comparison, always guessing the average gives MAE = 7.72 marks
+
+======================================================================
+7. WHICH FACTORS MATTER MOST?
+======================================================================
+Permutation importance from Linear Regression (drop in R2 when a column is shuffled):
+previous_marks                   0.411
+study_hours_per_week             0.110
+assignment_score                 0.104
+participation_score              0.070
+tutoring_Yes                     0.053
+screen_time_hours                0.050
+attendance_pct                   0.039
+sleep_hours                      0.005
+parent_education_High School     0.002
+extra_curricular_Yes             0.001
+age                              0.001
+parent_education_Postgraduate    0.000
+gender_Male                     -0.000
+
+Linear Regression: change in final marks for a +1 standard deviation increase in the column
+previous_marks                   4.65
+assignment_score                 2.75
+study_hours_per_week             2.43
+participation_score              1.85
+attendance_pct                   1.36
+tutoring_Yes                     1.35
+sleep_hours                      0.31
+parent_education_Postgraduate    0.31
+age                              0.11
+gender_Male                     -0.00
+extra_curricular_Yes            -0.10
+parent_education_High School    -0.39
+screen_time_hours               -1.54
+
+======================================================================
+8. EXTRA: PREDICT PERFORMANCE LEVEL (At Risk / Average / Good)
+======================================================================
+Levels: At Risk = below 60, Average = 60 to 74.9, Good = 75 and above
+Class counts:
+final_marks
+Average    515
+Good       347
+At Risk    138
+
+Accuracy: 0.785 | Macro F1: 0.771
+
+              precision    recall  f1-score   support
+
+     At Risk       0.65      0.79      0.71        28
+     Average       0.84      0.72      0.77       103
+        Good       0.78      0.88      0.83        69
+
+    accuracy                           0.79       200
+   macro avg       0.76      0.80      0.77       200
+weighted avg       0.79      0.79      0.78       200
+
+
+======================================================================
+9. SAVE MODEL AND PREDICT FOR A NEW STUDENT
+======================================================================
+Saved: models/best_model.joblib (Linear Regression)
+
+Example new student: attendance 85%, previous marks 72, assignments 75, 14 study hrs/week, participation 7/10
+Predicted final marks: 84.8  ->  level: Good
